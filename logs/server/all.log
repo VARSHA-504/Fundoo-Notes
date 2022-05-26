@@ -72,3 +72,170 @@ error:
    {"timestamp":"2022-05-26T11:29:34.829Z"}
 info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-26T11:33:26.821Z"}
 info: Connected to the database. {"timestamp":"2022-05-26T11:33:30.990Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-26T12:12:57.105Z"}
+info: Connected to the database. {"timestamp":"2022-05-26T12:13:00.310Z"}
+error: 
+    status - 500 
+    message - ReferenceError: password is not defined
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:17:45)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.userLogin (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:16:23)
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\controllers\/user.controller.js:50:36)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-26T12:14:17.191Z"}
+error: 
+    status - 500 
+    message - ReferenceError: password is not defined
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:17:45)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.userLogin (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:16:23)
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\controllers\/user.controller.js:50:36)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-26T12:17:11.152Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-26T12:21:35.950Z"}
+info: Connected to the database. {"timestamp":"2022-05-26T12:21:39.780Z"}
+error: 
+    status - 500 
+    message - ReferenceError: password is not defined
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:17:45)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.userLogin (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:16:23)
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\controllers\/user.controller.js:50:36)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-26T12:21:53.896Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-26T12:23:57.398Z"}
+info: Connected to the database. {"timestamp":"2022-05-26T12:24:02.022Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-26T12:25:57.678Z"}
+info: Connected to the database. {"timestamp":"2022-05-26T12:26:02.332Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "abc@gmail.com" (type string) at path "_id" for model "User"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-26T12:26:14.015Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-26T12:36:34.898Z"}
+info: Connected to the database. {"timestamp":"2022-05-26T12:36:38.196Z"}
+error: 
+    status - 500 
+    message - TypeError: _user.default.findByemailId is not a function
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:17:27)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.userLogin (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:16:23)
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\controllers\/user.controller.js:50:36)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-26T12:36:47.912Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-26T12:38:15.909Z"}
+info: Connected to the database. {"timestamp":"2022-05-26T12:38:19.569Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-26T12:39:48.340Z"}
+info: Connected to the database. {"timestamp":"2022-05-26T12:39:51.983Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-26T12:41:42.323Z"}
+info: Connected to the database. {"timestamp":"2022-05-26T12:41:45.752Z"}
+error: 
+    status - 500 
+    message - TypeError: _user.default.findByOne is not a function
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:17:27)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.userLogin (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:16:23)
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\controllers\/user.controller.js:50:36)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-26T12:42:04.306Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-26T12:43:46.673Z"}
+info: Connected to the database. {"timestamp":"2022-05-26T12:44:05.297Z"}
+error: 
+    status - 500 
+    message - MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+    at Function.Model.$wrapCallback (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\model.js:5087:32)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4510:21
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4509:10)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-05-26T14:13:54.512Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-26T16:45:24.378Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-26T16:46:22.761Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-26T16:46:39.125Z"}
+error: Could not connect to the database. querySrv ETIMEOUT _mongodb._tcp.demo.aoloa.mongodb.net {"code":"ETIMEOUT","hostname":"_mongodb._tcp.demo.aoloa.mongodb.net","stack":"Error: querySrv ETIMEOUT _mongodb._tcp.demo.aoloa.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:dns:255:19)","syscall":"querySrv","timestamp":"2022-05-26T16:47:54.909Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-26T16:50:24.872Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-26T17:03:03.239Z"}
+error: Could not connect to the database. querySrv ETIMEOUT _mongodb._tcp.demo.aoloa.mongodb.net {"code":"ETIMEOUT","hostname":"_mongodb._tcp.demo.aoloa.mongodb.net","stack":"Error: querySrv ETIMEOUT _mongodb._tcp.demo.aoloa.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:dns:255:19)","syscall":"querySrv","timestamp":"2022-05-26T17:04:19.081Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-26T18:36:23.546Z"}
+info: Connected to the database. {"timestamp":"2022-05-26T18:36:33.370Z"}

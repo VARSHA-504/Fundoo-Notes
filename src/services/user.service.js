@@ -12,6 +12,12 @@ export const userRegistration = async (body) => {
   return data;
 };
 
+// for user Login
+export const userLogin = async (emailId, password) => {
+  const data = await User.findOne({emailId: emailId}, {password: password});
+  return data;
+};
+
 // create new user
 // export const newUser = async (body) => {
 //   const data = await User.create(body);
@@ -19,27 +25,27 @@ export const userRegistration = async (body) => {
 // };
 
 //update single user
-export const updateUser = async (_id, body) => {
-  const data = await User.findByIdAndUpdate(
-    {
-      _id
-    },
-    body,
-    {
-      new: true
-    }
-  );
-  return data;
-};
+// export const updateUser = async (_id, body) => {
+//   const data = await User.findByIdAndUpdate(
+//     {
+//       _id
+//     },
+//     body,
+//     {
+//       new: true
+//     }
+//   );
+//   return data;
+// };
 
 //delete single user
-export const deleteUser = async (id) => {
-  await User.findByIdAndDelete(id);
-  return '';
-};
+// export const deleteUser = async (id) => {
+//   await User.findByIdAndDelete(id);
+//   return '';
+// };
 
 //get single user
-export const getUser = async (id) => {
-  const data = await User.findById(id);
-  return data;
-};
+// export const getUser = async (id) => {
+//   const data = await User.findById(id);
+//   return data;
+// };
