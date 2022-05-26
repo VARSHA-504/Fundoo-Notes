@@ -1,2 +1,38 @@
 info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-26T10:45:42.117Z"}
 info: Connected to the database. {"timestamp":"2022-05-26T10:45:45.851Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-26T11:19:27.718Z"}
+info: Connected to the database. {"timestamp":"2022-05-26T11:19:31.418Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-26T11:24:09.363Z"}
+info: Connected to the database. {"timestamp":"2022-05-26T11:24:13.077Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-26T11:27:58.289Z"}
+info: Connected to the database. {"timestamp":"2022-05-26T11:28:02.494Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/users/newUser 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2022-05-26T11:28:24.410Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/users/newUser 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2022-05-26T11:28:47.702Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-26T11:29:24.907Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-26T11:29:34.829Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-26T11:33:26.821Z"}
+info: Connected to the database. {"timestamp":"2022-05-26T11:33:30.990Z"}

@@ -21,6 +21,26 @@ export const getAllUsers = async (req, res, next) => {
 };
 
 /**
+ * Controller to for new user registration
+ * @param  {object} req - request object
+ * @param {object} res - response object
+ * @param {Function} next
+ */
+ export const userRegistration = async (req, res, next) => {
+  try {
+    const data = await UserService.userRegistration(req.body);
+    res.status(HttpStatus.CREATED).json({
+      code: HttpStatus.CREATED,
+      data: data,
+      message: 'User Registered Successfully'
+    });
+  } catch (error) {
+    next(error);
+  }
+};
+
+
+/**
  * Controller to get a single user
  * @param  {object} req - request object
  * @param {object} res - response object
@@ -45,18 +65,18 @@ export const getUser = async (req, res, next) => {
  * @param {object} res - response object
  * @param {Function} next
  */
-export const newUser = async (req, res, next) => {
-  try {
-    const data = await UserService.newUser(req.body);
-    res.status(HttpStatus.CREATED).json({
-      code: HttpStatus.CREATED,
-      data: data,
-      message: 'User created successfully'
-    });
-  } catch (error) {
-    next(error);
-  }
-};
+// export const newUser = async (req, res, next) => {
+//   try {
+//     const data = await UserService.newUser(req.body);
+//     res.status(HttpStatus.CREATED).json({
+//       code: HttpStatus.CREATED,
+//       data: data,
+//       message: 'User created successfully'
+//     });
+//   } catch (error) {
+//     next(error);
+//   }
+// };
 
 /**
  * Controller to update a user
