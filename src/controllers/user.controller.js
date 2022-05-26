@@ -32,7 +32,7 @@ export const getAllUsers = async (req, res, next) => {
     res.status(HttpStatus.CREATED).json({
       code: HttpStatus.CREATED,
       data: data,
-      message: 'User Registered Successfully'
+      message: 'User Registered'
     });
   } catch (error) {
     next(error);

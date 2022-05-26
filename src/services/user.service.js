@@ -12,7 +12,7 @@ export const userRegistration = async (body) => {
   return data;
 };
 
-//create new user
+// create new user
 // export const newUser = async (body) => {
 //   const data = await User.create(body);
 //   return data;
