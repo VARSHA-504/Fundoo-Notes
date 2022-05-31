@@ -7,18 +7,18 @@ import * as UserService from '../services/user.service';
  * @param {object} res - response object
  * @param {Function} next
  */
-export const getAllUsers = async (req, res, next) => {
-  try {
-    const data = await UserService.getAllUsers();
-    res.status(HttpStatus.OK).json({
-      code: HttpStatus.OK,
-      data: data,
-      message: 'All users fetched successfully'
-    });
-  } catch (error) {
-    next(error);
-  }
-};
+// export const getAllUsers = async (req, res, next) => {
+//   try {
+//     const data = await UserService.getAllUsers();
+//     res.status(HttpStatus.OK).json({
+//       code: HttpStatus.OK,
+//       data: data,
+//       message: 'All users fetched successfully'
+//     });
+//   } catch (error) {
+//     next(error);
+//   }
+// };
 
 /**
  * Controller to for new user registration
@@ -32,12 +32,16 @@ export const getAllUsers = async (req, res, next) => {
     res.status(HttpStatus.CREATED).json({
       code: HttpStatus.CREATED,
       data: data,
-      message: 'User Registered'
+      message: 'User Registered successfully'
     });
   } catch (error) {
-    next(error);
-  }
+    res.status(HttpStatus.BAD_REQUEST).json({
+      code: HttpStatus.BAD_REQUEST,
+      message: `${error}`
+  });
+ }
 };
+
 
 /**
  * Controller for user login
@@ -47,14 +51,13 @@ export const getAllUsers = async (req, res, next) => {
  */
 export const userLogin = async (req, res, next) => {
   try {
-    const data = await UserService.userLogin(req.body.emailId, req.body.password);
+    const data = await UserService.userLogin(req.body);
     res.status(HttpStatus.OK).json({
       code: HttpStatus.OK,
       data: data,
-      message: 'User logged in successfully'
+      message: 'User Logged in successfully'
     });
-  } catch (error) {
-    next(error);
+  }catch(error) {
   }
 };
 

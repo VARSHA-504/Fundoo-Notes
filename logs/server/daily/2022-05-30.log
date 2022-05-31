@@ -1,0 +1,172 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T02:23:28.253Z"}
+info: Connected to the database. {"timestamp":"2022-05-30T02:23:32.132Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T02:38:51.471Z"}
+info: Connected to the database. {"timestamp":"2022-05-30T02:38:56.328Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T02:50:11.225Z"}
+info: Connected to the database. {"timestamp":"2022-05-30T02:50:24.887Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-30T02:52:34.101Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T13:46:52.382Z"}
+info: Connected to the database. {"timestamp":"2022-05-30T13:46:58.866Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-30T14:11:08.284Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T14:23:41.320Z"}
+info: Connected to the database. {"timestamp":"2022-05-30T14:23:44.963Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T14:25:46.206Z"}
+info: Connected to the database. {"timestamp":"2022-05-30T14:25:49.782Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T15:19:19.986Z"}
+info: Connected to the database. {"timestamp":"2022-05-30T15:19:23.594Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T15:53:02.804Z"}
+info: Connected to the database. {"timestamp":"2022-05-30T15:53:07.669Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T15:56:20.459Z"}
+info: Connected to the database. {"timestamp":"2022-05-30T15:56:23.568Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T16:03:39.618Z"}
+info: Connected to the database. {"timestamp":"2022-05-30T16:03:42.754Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T16:09:31.930Z"}
+info: Connected to the database. {"timestamp":"2022-05-30T16:09:35.281Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T16:12:02.836Z"}
+info: Connected to the database. {"timestamp":"2022-05-30T16:12:06.165Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T16:14:18.872Z"}
+info: Connected to the database. {"timestamp":"2022-05-30T16:14:23.376Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T16:15:35.729Z"}
+info: Connected to the database. {"timestamp":"2022-05-30T16:15:38.777Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T16:17:43.528Z"}
+info: Connected to the database. {"timestamp":"2022-05-30T16:17:48.302Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T16:24:51.180Z"}
+info: Connected to the database. {"timestamp":"2022-05-30T16:24:54.148Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T16:26:37.133Z"}
+info: Connected to the database. {"timestamp":"2022-05-30T16:26:51.094Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T16:36:17.751Z"}
+info: Connected to the database. {"timestamp":"2022-05-30T16:36:20.834Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T16:37:54.748Z"}
+info: Connected to the database. {"timestamp":"2022-05-30T16:37:58.024Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T16:39:26.994Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T16:44:48.111Z"}
+info: Connected to the database. {"timestamp":"2022-05-30T16:44:51.571Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T16:48:40.916Z"}
+info: Connected to the database. {"timestamp":"2022-05-30T16:48:44.001Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-30T16:50:34.573Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" length must be at least 4 characters long 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-30T16:50:45.559Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T17:02:17.215Z"}
+info: Connected to the database. {"timestamp":"2022-05-30T17:02:20.241Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T17:06:19.441Z"}
+info: Connected to the database. {"timestamp":"2022-05-30T17:06:22.213Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T17:07:30.338Z"}
+info: Connected to the database. {"timestamp":"2022-05-30T17:07:33.254Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T17:08:22.719Z"}
+info: Connected to the database. {"timestamp":"2022-05-30T17:08:30.474Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T17:11:20.031Z"}
+info: Connected to the database. {"timestamp":"2022-05-30T17:11:23.436Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T17:16:34.996Z"}
+info: Connected to the database. {"timestamp":"2022-05-30T17:16:38.339Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T17:21:07.861Z"}
+info: Connected to the database. {"timestamp":"2022-05-30T17:21:11.649Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T17:24:28.164Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T17:25:02.449Z"}
+info: Connected to the database. {"timestamp":"2022-05-30T17:25:06.037Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T17:26:12.424Z"}
+info: Connected to the database. {"timestamp":"2022-05-30T17:26:16.185Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T17:30:00.568Z"}
+info: Connected to the database. {"timestamp":"2022-05-30T17:30:04.153Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T17:31:26.954Z"}
+info: Connected to the database. {"timestamp":"2022-05-30T17:31:30.753Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T17:32:22.478Z"}
+info: Connected to the database. {"timestamp":"2022-05-30T17:32:25.843Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T17:43:48.128Z"}
+info: Connected to the database. {"timestamp":"2022-05-30T17:43:51.714Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T17:46:18.538Z"}
+info: Connected to the database. {"timestamp":"2022-05-30T17:46:22.457Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T17:59:11.847Z"}
+info: Connected to the database. {"timestamp":"2022-05-30T17:59:15.359Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T18:02:48.069Z"}
+info: Connected to the database. {"timestamp":"2022-05-30T18:02:51.422Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T18:06:13.311Z"}
+info: Connected to the database. {"timestamp":"2022-05-30T18:06:16.638Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T18:07:58.952Z"}
+info: Connected to the database. {"timestamp":"2022-05-30T18:08:02.524Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T18:08:34.685Z"}
+info: Connected to the database. {"timestamp":"2022-05-30T18:08:37.838Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-30T18:20:26.495Z"}
+info: Connected to the database. {"timestamp":"2022-05-30T18:20:29.926Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-05-30T18:23:28.327Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at newNoteValidator (C:\Users\91809\Desktop\FundooNotes\src\validators\/user.validator.js:33:5) 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-30T18:25:07.897Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at newNoteValidator (C:\Users\91809\Desktop\FundooNotes\src\validators\/user.validator.js:33:5) 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-30T18:26:16.470Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-30T18:28:24.465Z"}
