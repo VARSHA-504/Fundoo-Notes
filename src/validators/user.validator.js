@@ -21,7 +21,8 @@ export const newNoteValidator = (req, res, next) => {
   const schema = Joi.object({
     Title: Joi.string().required(),
     Description: Joi.string().required(),
-    color: Joi.string().optional()
+    color: Joi.string().optional(),
+    UserID: Joi.string().optional()
   });
   const { error, value } = schema.validate(req.body);
   if (error) {

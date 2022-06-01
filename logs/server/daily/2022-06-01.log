@@ -1,0 +1,398 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T18:34:31.967Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T18:34:35.732Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T18:38:20.291Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T18:38:24.901Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T18:41:16.187Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T18:41:20.002Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T18:43:23.761Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T18:43:27.181Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T18:44:17.283Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T18:44:20.757Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T18:45:23.168Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T18:45:26.383Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T18:46:35.888Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T18:46:39.183Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T18:48:34.737Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T18:48:38.293Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T18:49:56.194Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T18:49:59.686Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T18:51:04.966Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T18:51:07.690Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T18:52:20.464Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T18:52:23.676Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T18:53:13.563Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T18:53:16.880Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T18:58:15.675Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T18:58:19.007Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T19:03:58.010Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T19:04:00.654Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T19:05:24.388Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T19:05:37.124Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T19:05:39.737Z"}
+error: 
+    status - 500 
+    message - ReferenceError: UserID is not defined
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:27:17)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-31T19:05:45.382Z"}
+error: 
+    status - 500 
+    message - ReferenceError: UserID is not defined
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:27:17)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-31T19:06:22.922Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T02:28:24.304Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T02:28:27.988Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T02:29:13.269Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T02:29:17.070Z"}
+error: 
+    status - 500 
+    message - ReferenceError: userID is not defined
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:27:17)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-01T02:29:43.552Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T02:30:43.994Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T02:30:47.258Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T02:33:06.394Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T02:33:09.731Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T02:40:15.071Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T02:40:19.018Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T02:46:33.239Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T02:46:36.976Z"}
+error: 
+    status - 500 
+    message - ReferenceError: data is not defined
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:25:23)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-01T02:46:43.210Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T02:47:50.683Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T02:47:53.773Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T02:48:55.396Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T02:49:00.373Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T03:03:19.690Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T03:03:23.158Z"}
+error: 
+    status - 500 
+    message - ReferenceError: UseID is not defined
+    at _callee5$ (C:\Users\91809\Desktop\FundooNotes\src\controllers\/note.controller.js:59:57)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at getAllNotes (C:\Users\91809\Desktop\FundooNotes\src\controllers\/note.controller.js:57:25)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:346:12) 
+    url - /api/v1/notes 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-06-01T03:03:30.392Z"}
+error: 
+    status - 500 
+    message - ReferenceError: UseID is not defined
+    at _callee5$ (C:\Users\91809\Desktop\FundooNotes\src\controllers\/note.controller.js:59:57)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at getAllNotes (C:\Users\91809\Desktop\FundooNotes\src\controllers\/note.controller.js:57:25)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:346:12) 
+    url - /api/v1/notes 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-06-01T03:03:33.623Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T03:04:49.445Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T03:04:55.085Z"}
+error: 
+    status - 500 
+    message - ReferenceError: UserID is not defined
+    at _callee5$ (C:\Users\91809\Desktop\FundooNotes\src\controllers\/note.controller.js:59:57)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at getAllNotes (C:\Users\91809\Desktop\FundooNotes\src\controllers\/note.controller.js:57:25)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:346:12) 
+    url - /api/v1/notes 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-06-01T03:05:04.233Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T03:09:50.610Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T03:10:00.046Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T03:14:58.730Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T03:15:08.400Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T03:35:14.938Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T03:35:19.604Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T05:41:56.910Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T05:43:12.909Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T05:43:15.867Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T05:50:20.962Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T05:50:24.571Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T05:51:17.866Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T05:51:20.710Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T05:55:34.198Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T05:55:37.098Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T06:00:45.108Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T06:00:48.092Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T06:05:00.847Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T06:05:03.753Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T06:06:19.546Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T06:06:22.226Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T06:11:01.113Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T06:11:10.769Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'isArchived', UserID: 'priya@mail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/isArchived 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-01T06:16:35.246Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T06:19:37.437Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'archieve', UserID: 'priya@mail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/archieve?_id=629701057c84b841709ac90d 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-01T06:20:38.454Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'archieve', UserID: 'priya@mail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/archieve?_id=629701057c84b841709ac90d 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-01T06:21:17.832Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'inTrash', UserID: 'priya@mail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/inTrash?_id=629701057c84b841709ac90d 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-01T06:21:40.817Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'archive', UserID: 'priya@mail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/archive?_id=629707017e521c404c3f2424 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-01T07:53:41.196Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'archive', UserID: 'priya@mail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/archive/?_id=629707017e521c404c3f2424 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-01T07:56:40.361Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'archive', UserID: 'priya@mail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/archive/?_id=629707017e521c404c3f2424 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-01T08:02:40.020Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'archive', UserID: 'priya@mail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/archive/?_id=629707017e521c404c3f2424 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-01T08:04:33.264Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'inTrash', UserID: 'priya@mail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/inTrash/?_id=629707017e521c404c3f2424 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-01T08:13:29.587Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'inTrash', UserID: 'priya@mail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/inTrash/?_id=629707017e521c404c3f2424 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-01T08:14:21.248Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'inTrash', UserID: 'priya@mail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/inTrash/?_id=629707017e521c404c3f2424 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-01T08:14:28.421Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T08:17:20.895Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T08:17:23.792Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'archive', UserID: 'priya@mail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/archive/?_id=629707017e521c404c3f2424 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-01T08:17:39.288Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'archive', UserID: 'priya@mail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/archive?_id=6296df01dc5d971974ad786f 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-01T08:18:32.639Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'archive', UserID: 'priya@mail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/archive/?_id=6296df01dc5d971974ad786f 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-01T08:18:52.452Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T08:20:52.780Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T08:20:55.814Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T08:36:24.145Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T08:36:27.131Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T08:39:10.611Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T08:39:13.747Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T08:49:21.338Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T08:49:24.459Z"}
+error: 
+    status - 500 
+    message - ReferenceError: resData is not defined
+    at _callee6$ (C:\Users\91809\Desktop\FundooNotes\src\services\/note.service.js:40:17)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/archive/6296df01dc5d971974ad786f 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-01T08:49:36.070Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T08:50:15.177Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T08:50:17.991Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T08:53:34.562Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T08:53:37.621Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T08:54:47.063Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T08:54:50.053Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T09:06:46.067Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T09:06:49.299Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T09:08:34.741Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T09:08:37.868Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of null (reading 'isArchived')
+    at _callee6$ (C:\Users\91809\Desktop\FundooNotes\src\services\/note.service.js:37:32)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/archive/6296df01dc5d971974ad786f 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-01T09:48:32.149Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T09:50:03.678Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T09:50:07.414Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T09:56:34.396Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T09:56:39.095Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T10:02:47.380Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T10:02:51.060Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T10:04:38.984Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T10:04:42.832Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T13:57:19.507Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T13:57:23.376Z"}

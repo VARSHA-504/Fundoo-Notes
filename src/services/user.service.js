@@ -29,12 +29,8 @@ export const userLogin = async (userData) => {
   }
   else{
     let passwordCheck =  bcrypt.compareSync(userData.password, data.password);
-    // console.log(data.password);
-    // console.log(userData.password);
-    // console.log(passwordCheck);
     if(passwordCheck){
-      let token = jwt.sign({firstName: data.firstName, email: data.email, id: data._id }, process.env.SECRET_KEY);
-      console.log(token);
+      let token = jwt.sign({ firstname: data.firstname, email: data.emailId, id: data._id }, process.env.SECRET_KEY);
       return token;
     }
     else {

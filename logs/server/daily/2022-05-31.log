@@ -66,3 +66,170 @@ info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T0
 info: Connected to the database. {"timestamp":"2022-05-31T02:47:32.996Z"}
 info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T08:00:14.499Z"}
 info: Connected to the database. {"timestamp":"2022-05-31T08:00:18.064Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T14:36:03.105Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T14:36:06.743Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T14:40:42.704Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T14:40:51.621Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T15:03:33.614Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T15:03:37.017Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-31T15:07:35.942Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'emailId')
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-31T15:10:26.969Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T15:11:29.679Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T15:11:33.275Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'emailId')
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-31T15:11:42.058Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'emailId')
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-31T15:20:11.096Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T15:34:45.838Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T15:34:49.598Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T15:36:27.860Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T15:36:31.585Z"}
+error: 
+    status - 500 
+    message - ReferenceError: u is not defined
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:23)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-31T15:36:45.942Z"}
+error: 
+    status - 500 
+    message - ReferenceError: u is not defined
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:23)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-31T15:37:27.924Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T15:38:33.525Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T15:38:37.128Z"}
+error: 
+    status - 500 
+    message - ReferenceError: ser is not defined
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:25:5)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-31T15:38:49.385Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T15:39:23.861Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T15:39:26.793Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T15:41:22.068Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T15:41:25.776Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T15:45:42.540Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T15:45:46.181Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T15:46:43.703Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T15:46:47.109Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" must be a valid email 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-31T15:53:18.336Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" must be a valid email 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-31T15:53:31.796Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" must be a valid email 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-31T15:53:51.567Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T16:00:35.194Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T16:00:38.902Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T16:21:24.277Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T16:21:27.768Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T16:30:10.451Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T16:30:14.411Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T16:31:49.330Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T16:31:52.814Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T16:32:54.625Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T16:32:58.078Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T17:39:46.643Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T17:39:49.944Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T17:42:03.476Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T17:42:06.638Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T17:45:53.163Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T17:45:55.960Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T17:48:31.179Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T17:48:34.072Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T17:49:52.154Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T17:49:55.852Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T18:16:57.478Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T18:17:02.449Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T18:19:17.744Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T18:19:35.247Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T18:19:37.903Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T18:21:55.364Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T18:21:59.170Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T18:22:35.022Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T18:22:37.769Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T18:24:59.379Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T18:25:02.037Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-31T18:26:50.073Z"}
+info: Connected to the database. {"timestamp":"2022-05-31T18:26:53.137Z"}

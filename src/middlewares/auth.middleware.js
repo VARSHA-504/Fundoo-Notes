@@ -1,5 +1,7 @@
 import HttpStatus from 'http-status-codes';
 import jwt from 'jsonwebtoken';
+import User from '../models/user.model';
+
 
 /**
  * Middleware to authenticate if user has a valid Authorization token
@@ -19,7 +21,9 @@ export const userAuth = async (req, res, next) => {
       };
     bearerToken = bearerToken.split(' ')[1];
 
-    const { user } = await jwt.verify(bearerToken, process.env.SECRET_KEY);
+    const user = await jwt.verify(bearerToken, process.env.SECRET_KEY);
+    req.body.UserID = user.email;
+    console.log('User :', user);
     next();
   } catch (error) {
     next(error);
