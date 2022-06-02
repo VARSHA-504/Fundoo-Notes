@@ -33,5 +33,13 @@ export const deleteUser = async (id, UserID) => {
     return data;
   };
 
+  export const archiveNote = async (id, UserID) => {
+    const data = await Note.findOneAndUpdate({_id: id, UserID: UserID},  { isArchived : true})
+    return data;
+  };
   
+  export const trashNote = async (id, UserID) => {
+    const data = await Note.findOneAndUpdate({_id: id, UserID: UserID}, { isDeleted : true});
+    return data;
+  };
   

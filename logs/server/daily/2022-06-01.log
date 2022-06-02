@@ -398,3 +398,191 @@ info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T1
 info: Connected to the database. {"timestamp":"2022-06-01T13:57:23.376Z"}
 info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T13:58:08.141Z"}
 info: Connected to the database. {"timestamp":"2022-06-01T13:58:11.459Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T15:15:41.619Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T15:15:45.253Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T15:31:02.195Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T15:31:05.721Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T15:34:24.293Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T15:34:27.815Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of null (reading 'isArchived')
+    at _callee6$ (C:\Users\91809\Desktop\FundooNotes\src\services\/note.service.js:38:32)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/archive/6296ffbaccd09524b4ae183a 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-01T15:35:08.764Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T15:36:14.575Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T15:36:18.037Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of null (reading 'isArchived')
+    at _callee6$ (C:\Users\91809\Desktop\FundooNotes\src\services\/note.service.js:38:32)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/archive/6296ffbaccd09524b4ae183a 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-01T15:36:33.434Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T15:39:25.178Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T15:39:29.118Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T15:39:54.575Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T15:39:57.793Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of null (reading 'isArchived')
+    at _callee6$ (C:\Users\91809\Desktop\FundooNotes\src\services\/note.service.js:39:43)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/archive/6296ffbaccd09524b4ae183a 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-01T15:40:06.972Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T15:41:05.344Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T15:41:08.956Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T15:41:37.131Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T15:41:40.187Z"}
+error: 
+    status - 500 
+    message - ReferenceError: data is not defined
+    at _callee6$ (C:\Users\91809\Desktop\FundooNotes\src\services\/note.service.js:37:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.archiveNote (C:\Users\91809\Desktop\FundooNotes\src\services\/note.service.js:36:27)
+    at _callee6$ (C:\Users\91809\Desktop\FundooNotes\src\controllers\/note.controller.js:72:36)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/notes/archive/6296ffbaccd09524b4ae183a 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-01T15:41:45.911Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T15:42:27.390Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T15:42:30.974Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T15:51:33.886Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T15:51:37.175Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T15:52:45.786Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T15:52:49.471Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T15:54:10.383Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T15:54:13.847Z"}
+error: 
+    status - 500 
+    message - ReferenceError: isArchived is not defined
+    at _callee6$ (C:\Users\91809\Desktop\FundooNotes\src\services\/note.service.js:39:91)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.archiveNote (C:\Users\91809\Desktop\FundooNotes\src\services\/note.service.js:36:27)
+    at _callee6$ (C:\Users\91809\Desktop\FundooNotes\src\controllers\/note.controller.js:72:36)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/notes/archive/6296ffbaccd09524b4ae183a 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-01T15:54:25.686Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T15:56:09.874Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T15:56:14.890Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T17:51:43.822Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T17:51:47.035Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T18:09:25.618Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T18:09:28.582Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T18:11:53.812Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T18:11:56.676Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T18:13:15.631Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T18:13:18.329Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T18:20:27.684Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T18:20:30.894Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T18:20:59.075Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T18:21:01.731Z"}
+error: 
+    status - 500 
+    message - Error: Note does not exists
+    at _callee6$ (C:\Users\91809\Desktop\FundooNotes\src\services\/note.service.js:39:13)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/archive/6296ffbaccd09524b4ae183a 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-01T18:21:20.120Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T18:22:33.635Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T18:22:36.432Z"}
+error: 
+    status - 500 
+    message - Error: Note does not exists
+    at _callee6$ (C:\Users\91809\Desktop\FundooNotes\src\services\/note.service.js:39:13)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/archive/6296ffbaccd09524b4ae183a 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-01T18:23:20.824Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T18:24:52.461Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T18:24:55.414Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of null (reading 'isArchived')
+    at _callee6$ (C:\Users\91809\Desktop\FundooNotes\src\controllers\/note.controller.js:73:13)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/archive/6296ffbaccd09524b4ae183a 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-01T18:25:43.648Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-01T18:26:30.856Z"}
+info: Connected to the database. {"timestamp":"2022-06-01T18:26:33.825Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of null (reading 'isArchived')
+    at _callee6$ (C:\Users\91809\Desktop\FundooNotes\src\controllers\/note.controller.js:73:13)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/archive/6296ffbaccd09524b4ae183a 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-01T18:28:47.673Z"}
