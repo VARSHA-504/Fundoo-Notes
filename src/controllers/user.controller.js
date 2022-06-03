@@ -61,6 +61,23 @@ export const userLogin = async (req, res, next) => {
   }
 };
 
+
+export const forgotPassword = async (req, res, next) => {
+  try {
+    const data = await UserService.forgotPassword(req.body);
+    res.status(HttpStatus.ACCEPTED).json({
+      code: HttpStatus.ACCEPTED,
+      data: data,
+      message: 'Password Reset link sent'
+    });
+  } catch (error) {
+    next(error);
+  }
+};
+
+
+
+
 /**
  * Controller to get a single user
  * @param  {object} req - request object

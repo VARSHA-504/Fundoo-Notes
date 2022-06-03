@@ -34,6 +34,7 @@ app.use(appErrorHandler);
 app.use(genericErrorHandler);
 app.use(notFound);
 
+
 app.listen(port, () => {
   logger.info(`Server started at ${host}:${port}/api/${api_version}/`);
 });

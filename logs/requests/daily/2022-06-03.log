@@ -1,0 +1,14 @@
+info: ::1 - - [03/Jun/2022:02:34:51 +0000] "POST /api/v1/users/forgotPassword/6298ccb5a300fa3a587f9781 HTTP/1.1" 202 255 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [03/Jun/2022:02:44:03 +0000] "POST /api/v1/users/forgotPassword/6298ccb5a300fa3a587f9781 HTTP/1.1" 202 255 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [03/Jun/2022:04:44:40 +0000] "POST /api/v1/users/forgotPassword/6298ccb5a300fa3a587f9781 HTTP/1.1" 202 255 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [03/Jun/2022:04:57:49 +0000] "POST /api/v1/users/forgotPassword/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InFvdGlqb20uZnVtYW5pQGdvdGdlbC5vcmciLCJpZCI6IjYyOThjY2I1YTMwMGZhM2E1ODdmOTc4MSIsImlhdCI6MTY1NDIzMTQ3OX0.J_vuX9cA5Fxx7lm_7lvx9mQemSV460xC4sDrJKQWtyM HTTP/1.1" 202 255 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [03/Jun/2022:04:58:38 +0000] "POST /api/v1/users/resetPassword/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InFvdGlqb20uZnVtYW5pQGdvdGdlbC5vcmciLCJpZCI6IjYyOThjY2I1YTMwMGZhM2E1ODdmOTc4MSIsImlhdCI6MTY1NDIzMTQ3OX0.J_vuX9cA5Fxx7lm_7lvx9mQemSV460xC4sDrJKQWtyM HTTP/1.1" 500 52 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [03/Jun/2022:05:00:52 +0000] "POST /api/v1/users/resetPassword/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InFvdGlqb20uZnVtYW5pQGdvdGdlbC5vcmciLCJpZCI6IjYyOThjY2I1YTMwMGZhM2E1ODdmOTc4MSIsImlhdCI6MTY1NDIzMTQ3OX0.J_vuX9cA5Fxx7lm_7lvx9mQemSV460xC4sDrJKQWtyM HTTP/1.1" 500 52 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [03/Jun/2022:05:01:09 +0000] "POST /eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InFvdGlqb20uZnVtYW5pQGdvdGdlbC5vcmciLCJpZCI6IjYyOThjY2I1YTMwMGZhM2E1ODdmOTc4MSIsImlhdCI6MTY1NDIzMTQ3OX0.J_vuX9cA5Fxx7lm_7lvx9mQemSV460xC4sDrJKQWtyM HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+

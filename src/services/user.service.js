@@ -1,6 +1,7 @@
 import User from '../models/user.model';
 import  bcrypt from 'bcrypt';
- import jwt from 'jsonwebtoken';
+import jwt from 'jsonwebtoken';
+import * as helper from '../utils/helper';
 
 //get all users
 // export const getAllUsers = async () => {
@@ -39,36 +40,20 @@ export const userLogin = async (userData) => {
   }
 };
 
+// forgot password
+export const forgotPassword = async (userData) => {
+  const data = await User.findOne({emailId : userData.emailId});
+  if(data == null){
+    throw new Error("User doesnt exist")
+  }
+  else{
+      let token = jwt.sign({ firstname: data.firstname, email: data.emailId, id: data._id }, process.env.SECRET_CODE);
+      console.log("password link", token)
+      helper.sendMail(userData.emailId, token);
+      return token;
+ } 
+    
+};
 
 
-// create new user
-// export const newUser = async (body) => {
-//   const data = await User.create(body);
-//   return data;
-// };
 
-//update single user
-// export const updateUser = async (_id, body) => {
-//   const data = await User.findByIdAndUpdate(
-//     {
-//       _id
-//     },
-//     body,
-//     {
-//       new: true
-//     }
-//   );
-//   return data;
-// };
-
-//delete single user
-// export const deleteUser = async (id) => {
-//   await User.findByIdAndDelete(id);
-//   return '';
-// };
-
-//get single user
-// export const getUser = async (id) => {
-//   const data = await User.findById(id);
-//   return data;
-// };
