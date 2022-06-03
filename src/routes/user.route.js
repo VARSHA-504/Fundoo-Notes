@@ -16,6 +16,8 @@ router.post('/login', userController.userLogin);
 
 router.post('/forgotPassword/:_id', userController.forgotPassword);
 
+router.post('/resetPassword/:_id', userAuth, userController.resetPassword);
+
 // route to create a new user
 // router.post('', newUserValidator, userController.newUser);
 
