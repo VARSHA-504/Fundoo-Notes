@@ -41,9 +41,30 @@
             "hash": "ccda082bec133980d971595832edb6ff"
         },
         {
+<<<<<<< HEAD
             "date": 1654223645259,
             "name": "logs\\server\\daily\\2022-06-03.log",
             "hash": "18572a0c627d8d64b4cee090d71d5968"
+=======
+            "date": 1654253007549,
+            "name": "logs\\server\\daily\\2022-06-03.log",
+            "hash": "92e3e4e0eec2bef1b6d4adcd2b381b40"
+        },
+        {
+            "date": 1654282820350,
+            "name": "logs\\server\\daily\\2022-06-04.log",
+            "hash": "87410ce9834bb46e43a3d490aebf85f4"
+        },
+        {
+            "date": 1654410392475,
+            "name": "logs\\server\\daily\\2022-06-05.log",
+            "hash": "a9bfb783cd0ba86b0c1e5f9a2930478f"
+        },
+        {
+            "date": 1654503468513,
+            "name": "logs\\server\\daily\\2022-06-06.log",
+            "hash": "9dfc77043afdb59008ec7e95913961d3"
+>>>>>>> Swagger
         }
     ],
     "hashType": "md5"

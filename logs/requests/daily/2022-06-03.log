@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 info: ::1 - - [03/Jun/2022:02:34:51 +0000] "POST /api/v1/users/forgotPassword/6298ccb5a300fa3a587f9781 HTTP/1.1" 202 255 "-" "PostmanRuntime/7.29.0"
 
 info: ::1 - - [03/Jun/2022:02:44:03 +0000] "POST /api/v1/users/forgotPassword/6298ccb5a300fa3a587f9781 HTTP/1.1" 202 255 "-" "PostmanRuntime/7.29.0"
@@ -11,4 +12,79 @@ info: ::1 - - [03/Jun/2022:04:58:38 +0000] "POST /api/v1/users/resetPassword/eyJ
 info: ::1 - - [03/Jun/2022:05:00:52 +0000] "POST /api/v1/users/resetPassword/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InFvdGlqb20uZnVtYW5pQGdvdGdlbC5vcmciLCJpZCI6IjYyOThjY2I1YTMwMGZhM2E1ODdmOTc4MSIsImlhdCI6MTY1NDIzMTQ3OX0.J_vuX9cA5Fxx7lm_7lvx9mQemSV460xC4sDrJKQWtyM HTTP/1.1" 500 52 "-" "PostmanRuntime/7.29.0"
 
 info: ::1 - - [03/Jun/2022:05:01:09 +0000] "POST /eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InFvdGlqb20uZnVtYW5pQGdvdGdlbC5vcmciLCJpZCI6IjYyOThjY2I1YTMwMGZhM2E1ODdmOTc4MSIsImlhdCI6MTY1NDIzMTQ3OX0.J_vuX9cA5Fxx7lm_7lvx9mQemSV460xC4sDrJKQWtyM HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+=======
+info: ::1 - - [03/Jun/2022:11:05:59 +0000] "POST /api/v1/users/forgotPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [03/Jun/2022:11:06:12 +0000] "PUT /api/v1/users/forgotPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [03/Jun/2022:11:09:09 +0000] "PUT /api/v1/users/forgotPassword/6298ccb5a300fa3a587f9781 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [03/Jun/2022:11:16:51 +0000] "PUT /api/v1/users/forgotPassword/6298ccb5a300fa3a587f9781 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [03/Jun/2022:11:17:17 +0000] "POST /api/v1/users/forgotPassword/6298ccb5a300fa3a587f9781 HTTP/1.1" 500 56 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [03/Jun/2022:11:19:56 +0000] "POST /api/v1/users/forgotPassword/6298ccb5a300fa3a587f9781 HTTP/1.1" 202 255 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [03/Jun/2022:11:20:36 +0000] "GET /eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InFvdGlqb20uZnVtYW5pQGdvdGdlbC5vcmciLCJpZCI6IjYyOThjY2I1YTMwMGZhM2E1ODdmOTc4MSIsImlhdCI6MTY1NDI1NTE5Nn0._OSJ2aRXbP0d6CJJgXS_EnJ3-RqfNNob1mcP-A6Wa18 HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.30"
+
+info: ::1 - - [03/Jun/2022:11:20:39 +0000] "GET /favicon.ico HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.30"
+
+info: ::1 - - [03/Jun/2022:11:24:51 +0000] "POST /api/v1/users/forgotPassword/6298ccb5a300fa3a587f9781 HTTP/1.1" 202 255 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [03/Jun/2022:11:25:21 +0000] "GET /api/v1/users/resetPasswordeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InFvdGlqb20uZnVtYW5pQGdvdGdlbC5vcmciLCJpZCI6IjYyOThjY2I1YTMwMGZhM2E1ODdmOTc4MSIsImlhdCI6MTY1NDI1NTQ5MX0._cY_3vYu4GhnspogsABdo2TaTSHZSz6wXsjpGhCOUNM HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.30"
+
+info: ::1 - - [03/Jun/2022:11:26:43 +0000] "POST /api/v1/users/forgotPassword/6298ccb5a300fa3a587f9781 HTTP/1.1" 202 255 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [03/Jun/2022:11:29:01 +0000] "POST /api/v1/users/resetPasswordeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InFvdGlqb20uZnVtYW5pQGdvdGdlbC5vcmciLCJpZCI6IjYyOThjY2I1YTMwMGZhM2E1ODdmOTc4MSIsImlhdCI6MTY1NDI1NTYwM30.fCvRT2aWkW1VJ4htXzpd7WcG1LELJgD7Um5RtuV3xjY HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [03/Jun/2022:11:31:35 +0000] "POST /api/v1/users/forgotPassword/6298ccb5a300fa3a587f9781 HTTP/1.1" 202 255 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [03/Jun/2022:11:32:27 +0000] "POST /api/v1/users/forgotPassword/6298ccb5a300fa3a587f9781 HTTP/1.1" 202 255 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [03/Jun/2022:11:33:08 +0000] "POST /api/v1/users/forgotPassword/6298ccb5a300fa3a587f9781 HTTP/1.1" 202 255 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [03/Jun/2022:11:34:26 +0000] "POST /api/v1/users/forgotPassword/6298ccb5a300fa3a587f9781 HTTP/1.1" 202 255 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [03/Jun/2022:11:34:52 +0000] "POST /api/v1/users/forgotPassword/6298ccb5a300fa3a587f9781 HTTP/1.1" 202 255 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [03/Jun/2022:11:35:08 +0000] "GET /api/v1/users/resetPasswordeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InFvdGlqb20uZnVtYW5pQGdvdGdlbC5vcmciLCJpZCI6IjYyOThjY2I1YTMwMGZhM2E1ODdmOTc4MSIsImlhdCI6MTY1NDI1NTg5NX0.iY3FbDm0K4i-qbMbUFAvhUNfAf96yoDS9ZI0a0kM6Ek HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.30"
+
+info: ::1 - - [03/Jun/2022:11:45:11 +0000] "POST /api/v1/users/resetPassword/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InFvdGlqb20uZnVtYW5pQGdvdGdlbC5vcmciLCJpZCI6IjYyOThjY2I1YTMwMGZhM2E1ODdmOTc4MSIsImlhdCI6MTY1NDI1NjA5Mn0.uF4HZ2T5eRCO6JZAf5dKyehUNV8G_fQb2z8-Su31e4A HTTP/1.1" 500 52 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [03/Jun/2022:11:45:25 +0000] "POST /api/v1/users/resetPassword/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InFvdGlqb20uZnVtYW5pQGdvdGdlbC5vcmciLCJpZCI6IjYyOThjY2I1YTMwMGZhM2E1ODdmOTc4MSIsImlhdCI6MTY1NDI1NjA5Mn0.uF4HZ2T5eRCO6JZAf5dKyehUNV8G_fQb2z8-Su31e4A HTTP/1.1" 500 52 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [03/Jun/2022:11:46:06 +0000] "POST /api/v1/users/resetPassword/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InFvdGlqb20uZnVtYW5pQGdvdGdlbC5vcmciLCJpZCI6IjYyOThjY2I1YTMwMGZhM2E1ODdmOTc4MSIsImlhdCI6MTY1NDI1NjA5Mn0.uF4HZ2T5eRCO6JZAf5dKyehUNV8G_fQb2z8-Su31e4A HTTP/1.1" 500 52 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [03/Jun/2022:11:47:38 +0000] "POST /api/v1/users/forgotPassword/6298ccb5a300fa3a587f9781 HTTP/1.1" 202 255 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [03/Jun/2022:11:48:02 +0000] "POST /api/v1/users/forgotPassword/6298ccb5a300fa3a587f9781 HTTP/1.1" 202 255 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [03/Jun/2022:11:49:40 +0000] "POST /api/v1/users/forgotPassword/6298ccb5a300fa3a587f9781 HTTP/1.1" 202 255 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [03/Jun/2022:11:56:16 +0000] "POST /api/v1/users/resetPassword/6298ccb5a300fa3a587f9781 HTTP/1.1" 500 52 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [03/Jun/2022:11:56:40 +0000] "POST /api/v1/users/resetPassword/6298ccb5a300fa3a587f9781 HTTP/1.1" 500 52 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [03/Jun/2022:11:57:35 +0000] "POST /api/v1/users/resetPassword/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InFvdGlqb20uZnVtYW5pQGdvdGdlbC5vcmciLCJpZCI6IjYyOThjY2I1YTMwMGZhM2E1ODdmOTc4MSIsImlhdCI6MTY1NDI1Njk4MH0.q3E3zgtkzZfzjdMOFTe9EmyytTm6nw6b6CGX16nFL-s HTTP/1.1" 500 52 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [03/Jun/2022:12:00:39 +0000] "POST /api/v1/users/resetPassword/6298ccb5a300fa3a587f9781 HTTP/1.1" 500 52 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [03/Jun/2022:12:02:00 +0000] "POST /api/v1/users/forgotPassword/6298ccb5a300fa3a587f9781 HTTP/1.1" 202 255 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [03/Jun/2022:12:02:42 +0000] "POST /api/v1/users/resetPassword/6298ccb5a300fa3a587f9781 HTTP/1.1" 500 52 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [03/Jun/2022:12:06:00 +0000] "POST /api/v1/users/resetPassword/6298ccb5a300fa3a587f9781 HTTP/1.1" 500 52 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [03/Jun/2022:15:43:27 +0000] "POST /api/v1/users/resetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [03/Jun/2022:15:43:36 +0000] "POST /api/v1/users/resetPassword/6298ccb5a300fa3a587f9781 HTTP/1.1" 500 52 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [03/Jun/2022:15:46:03 +0000] "POST /api/v1/users/resetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [03/Jun/2022:15:52:32 +0000] "POST /api/v1/users/resetPassword HTTP/1.1" 500 52 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [03/Jun/2022:15:58:22 +0000] "POST /api/v1/users/forgotPassword/6298ccb5a300fa3a587f9781 HTTP/1.1" 202 255 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [03/Jun/2022:15:59:08 +0000] "POST /api/v1/users/resetPassword HTTP/1.1" 500 52 "-" "PostmanRuntime/7.29.0"
+>>>>>>> Swagger
 

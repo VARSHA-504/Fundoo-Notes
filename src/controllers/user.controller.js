@@ -61,6 +61,54 @@ export const userLogin = async (req, res, next) => {
   }
 };
 
+<<<<<<< HEAD
+=======
+export const forgotPassword = async (req, res, next) => {
+  try {
+    const data = await UserService.forgotPassword(req.body);
+    res.status(HttpStatus.ACCEPTED).json({
+      code: HttpStatus.ACCEPTED,
+      data: data,
+      message: 'Password Reset link sent'
+    });
+  } catch (error) {
+    next(error);
+  }
+};
+
+export const resetPassword = async (req, res, next) => {
+  try {
+    const data = await UserService.resetPassword(req.body);
+    res.status(HttpStatus.OK).json({
+      code: HttpStatus.OK,
+      data: data,
+      message: 'password is reset successfully'
+    });
+  } catch (error) {
+    next(error);
+  }
+};
+
+
+/**
+ * Controller to get a single user
+ * @param  {object} req - request object
+ * @param {object} res - response object
+ * @param {Function} next
+ */
+// export const getUser = async (req, res, next) => {
+//   try {
+//     const data = await UserService.getUser(req.params._id);
+//     res.status(HttpStatus.OK).json({
+//       code: HttpStatus.OK,
+//       data: data,
+//       message: 'User fetched successfully'
+//     });
+//   } catch (error) {
+//     next(error);
+//   }
+// };
+>>>>>>> Swagger
 
 export const forgotPassword = async (req, res, next) => {
   try {
