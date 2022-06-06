@@ -1,0 +1,249 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-03T19:00:21.663Z"}
+info: Connected to the database. {"timestamp":"2022-06-03T19:00:26.078Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-03T19:03:01.133Z"}
+info: Connected to the database. {"timestamp":"2022-06-03T19:03:04.858Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-03T19:36:07.330Z"}
+info: Connected to the database. {"timestamp":"2022-06-03T19:36:11.526Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-03T19:37:09.234Z"}
+info: Connected to the database. {"timestamp":"2022-06-03T19:37:12.950Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:114:3) 
+    url - /api/v1/users/resetPassword 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-03T19:37:32.042Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-03T19:42:38.480Z"}
+info: Connected to the database. {"timestamp":"2022-06-03T19:42:42.068Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-03T19:43:22.490Z"}
+info: Connected to the database. {"timestamp":"2022-06-03T19:43:25.886Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-03T19:44:26.763Z"}
+info: Connected to the database. {"timestamp":"2022-06-03T19:44:30.403Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:114:3) 
+    url - /api/v1/users/resetPassword 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-03T19:45:46.057Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-03T19:48:12.405Z"}
+info: Connected to the database. {"timestamp":"2022-06-03T19:48:16.190Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:114:3) 
+    url - /api/v1/users/resetPassword 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-03T19:48:21.318Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-03T19:49:39.225Z"}
+info: Connected to the database. {"timestamp":"2022-06-03T19:49:42.924Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:114:3) 
+    url - /api/v1/users/resetPassword 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-03T19:49:45.618Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:114:3) 
+    url - /api/v1/users/resetPassword 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-03T19:49:59.060Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-03T19:52:50.276Z"}
+info: Connected to the database. {"timestamp":"2022-06-03T19:52:53.905Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:114:3) 
+    url - /api/v1/users/resetPassword 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-03T19:53:00.074Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-03T19:56:30.307Z"}
+info: Connected to the database. {"timestamp":"2022-06-03T19:56:33.751Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:114:3) 
+    url - /api/v1/users/resetPassword 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-03T19:56:40.259Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T02:07:47.105Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T02:07:51.409Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/6298ccb5a300fa3a587f9781 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-04T02:26:15.886Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:114:3) 
+    url - /api/v1/users/resetPassword 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-04T02:29:43.581Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:114:3) 
+    url - /api/v1/users/resetPassword 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-04T02:29:57.732Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T02:45:59.165Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T02:46:04.994Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-04T05:52:12.564Z"}
+info: Connected to the database. {"timestamp":"2022-06-04T05:52:16.443Z"}

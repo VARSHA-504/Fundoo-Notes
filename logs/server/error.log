@@ -2119,3 +2119,774 @@ error:
     method - PUT 
     IP - ::1
    {"timestamp":"2022-06-02T02:42:39.447Z"}
+error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1380:16)
+    at listenInCluster (node:net:1428:12)
+    at Server.listen (node:net:1516:7)
+    at Function.listen (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\91809\Desktop\FundooNotes\src\/index.js:37:5)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._compile (C:\Users\91809\Desktop\FundooNotes\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Object.newLoader [as .js] (C:\Users\91809\Desktop\FundooNotes\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:827:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at Object.<anonymous> (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\node\lib\_babel-node.js:176:21)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32) {"date":"Fri Jun 03 2022 16:13:31 GMT+0530 (India Standard Time)","error":{"address":"::","code":"EADDRINUSE","errno":-4091,"port":3000,"syscall":"listen"},"exception":true,"os":{"loadavg":[0,0,0],"uptime":782136},"process":{"argv":["node","C:\\Users\\91809\\Desktop\\FundooNotes\\src\\index.js"],"cwd":"C:\\Users\\91809\\Desktop\\FundooNotes","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19195348,"external":20665886,"heapTotal":86503424,"heapUsed":59558128,"rss":120635392},"pid":12372,"uid":null,"version":"v18.2.0"},"stack":"Error: listen EADDRINUSE: address already in use :::3000\n    at Server.setupListenHandle [as _listen2] (node:net:1380:16)\n    at listenInCluster (node:net:1428:12)\n    at Server.listen (node:net:1516:7)\n    at Function.listen (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\express\\lib\\application.js:635:24)\n    at Object.<anonymous> (C:\\Users\\91809\\Desktop\\FundooNotes\\src\\/index.js:37:5)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Module._compile (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Object.newLoader [as .js] (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:827:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n    at Object.<anonymous> (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\@babel\\node\\lib\\_babel-node.js:176:21)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)","timestamp":"2022-06-03T10:43:31.956Z","trace":[{"column":16,"file":"node:net","function":"Server.setupListenHandle [as _listen2]","line":1380,"method":"setupListenHandle [as _listen2]","native":false},{"column":12,"file":"node:net","function":"listenInCluster","line":1428,"method":null,"native":false},{"column":7,"file":"node:net","function":"Server.listen","line":1516,"method":"listen","native":false},{"column":24,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\express\\lib\\application.js","function":"Function.listen","line":635,"method":"listen","native":false},{"column":5,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\src\\/index.js","function":null,"line":37,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1105,"method":"_compile","native":false},{"column":24,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1159,"method":".js","native":false},{"column":7,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":827,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":77,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":21,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\@babel\\node\\lib\\_babel-node.js","function":null,"line":176,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1105,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1159,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false}]}
+error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1380:16)
+    at listenInCluster (node:net:1428:12)
+    at Server.listen (node:net:1516:7)
+    at Function.listen (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\91809\Desktop\FundooNotes\src\/index.js:37:5)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._compile (C:\Users\91809\Desktop\FundooNotes\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Object.newLoader [as .js] (C:\Users\91809\Desktop\FundooNotes\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:827:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at Object.<anonymous> (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\node\lib\_babel-node.js:176:21)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32) {"date":"Fri Jun 03 2022 16:13:32 GMT+0530 (India Standard Time)","error":{"address":"::","code":"EADDRINUSE","errno":-4091,"port":3000,"syscall":"listen"},"exception":true,"os":{"loadavg":[0,0,0],"uptime":782137},"process":{"argv":["node","C:\\Users\\91809\\Desktop\\FundooNotes\\src\\index.js"],"cwd":"C:\\Users\\91809\\Desktop\\FundooNotes","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19190830,"external":20661368,"heapTotal":87552000,"heapUsed":60581544,"rss":121483264},"pid":2080,"uid":null,"version":"v18.2.0"},"stack":"Error: listen EADDRINUSE: address already in use :::3000\n    at Server.setupListenHandle [as _listen2] (node:net:1380:16)\n    at listenInCluster (node:net:1428:12)\n    at Server.listen (node:net:1516:7)\n    at Function.listen (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\express\\lib\\application.js:635:24)\n    at Object.<anonymous> (C:\\Users\\91809\\Desktop\\FundooNotes\\src\\/index.js:37:5)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Module._compile (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Object.newLoader [as .js] (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:827:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n    at Object.<anonymous> (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\@babel\\node\\lib\\_babel-node.js:176:21)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)","timestamp":"2022-06-03T10:43:33.010Z","trace":[{"column":16,"file":"node:net","function":"Server.setupListenHandle [as _listen2]","line":1380,"method":"setupListenHandle [as _listen2]","native":false},{"column":12,"file":"node:net","function":"listenInCluster","line":1428,"method":null,"native":false},{"column":7,"file":"node:net","function":"Server.listen","line":1516,"method":"listen","native":false},{"column":24,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\express\\lib\\application.js","function":"Function.listen","line":635,"method":"listen","native":false},{"column":5,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\src\\/index.js","function":null,"line":37,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1105,"method":"_compile","native":false},{"column":24,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1159,"method":".js","native":false},{"column":7,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":827,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":77,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":21,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\@babel\\node\\lib\\_babel-node.js","function":null,"line":176,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1105,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1159,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false}]}
+error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1380:16)
+    at listenInCluster (node:net:1428:12)
+    at Server.listen (node:net:1516:7)
+    at Function.listen (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\91809\Desktop\FundooNotes\src\/index.js:40:5)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._compile (C:\Users\91809\Desktop\FundooNotes\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Object.newLoader [as .js] (C:\Users\91809\Desktop\FundooNotes\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:827:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at Object.<anonymous> (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\node\lib\_babel-node.js:176:21)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32) {"date":"Fri Jun 03 2022 16:19:02 GMT+0530 (India Standard Time)","error":{"address":"::","code":"EADDRINUSE","errno":-4091,"port":3000,"syscall":"listen"},"exception":true,"os":{"loadavg":[0,0,0],"uptime":782467},"process":{"argv":["node","C:\\Users\\91809\\Desktop\\FundooNotes\\src\\index.js"],"cwd":"C:\\Users\\91809\\Desktop\\FundooNotes","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18317867,"external":20484443,"heapTotal":115507200,"heapUsed":80914768,"rss":151867392},"pid":10912,"uid":null,"version":"v18.2.0"},"stack":"Error: listen EADDRINUSE: address already in use :::3000\n    at Server.setupListenHandle [as _listen2] (node:net:1380:16)\n    at listenInCluster (node:net:1428:12)\n    at Server.listen (node:net:1516:7)\n    at Function.listen (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\express\\lib\\application.js:635:24)\n    at Object.<anonymous> (C:\\Users\\91809\\Desktop\\FundooNotes\\src\\/index.js:40:5)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Module._compile (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Object.newLoader [as .js] (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:827:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n    at Object.<anonymous> (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\@babel\\node\\lib\\_babel-node.js:176:21)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)","timestamp":"2022-06-03T10:49:02.810Z","trace":[{"column":16,"file":"node:net","function":"Server.setupListenHandle [as _listen2]","line":1380,"method":"setupListenHandle [as _listen2]","native":false},{"column":12,"file":"node:net","function":"listenInCluster","line":1428,"method":null,"native":false},{"column":7,"file":"node:net","function":"Server.listen","line":1516,"method":"listen","native":false},{"column":24,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\express\\lib\\application.js","function":"Function.listen","line":635,"method":"listen","native":false},{"column":5,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\src\\/index.js","function":null,"line":40,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1105,"method":"_compile","native":false},{"column":24,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1159,"method":".js","native":false},{"column":7,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":827,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":77,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":21,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\@babel\\node\\lib\\_babel-node.js","function":null,"line":176,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1105,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1159,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false}]}
+error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1380:16)
+    at listenInCluster (node:net:1428:12)
+    at Server.listen (node:net:1516:7)
+    at Function.listen (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\91809\Desktop\FundooNotes\src\/index.js:40:5)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._compile (C:\Users\91809\Desktop\FundooNotes\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Object.newLoader [as .js] (C:\Users\91809\Desktop\FundooNotes\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:827:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at Object.<anonymous> (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\node\lib\_babel-node.js:176:21)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32) {"date":"Fri Jun 03 2022 16:19:02 GMT+0530 (India Standard Time)","error":{"address":"::","code":"EADDRINUSE","errno":-4091,"port":3000,"syscall":"listen"},"exception":true,"os":{"loadavg":[0,0,0],"uptime":782467},"process":{"argv":["node","C:\\Users\\91809\\Desktop\\FundooNotes\\src\\index.js"],"cwd":"C:\\Users\\91809\\Desktop\\FundooNotes","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19041009,"external":21207585,"heapTotal":117604352,"heapUsed":92125024,"rss":153952256},"pid":16848,"uid":null,"version":"v18.2.0"},"stack":"Error: listen EADDRINUSE: address already in use :::3000\n    at Server.setupListenHandle [as _listen2] (node:net:1380:16)\n    at listenInCluster (node:net:1428:12)\n    at Server.listen (node:net:1516:7)\n    at Function.listen (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\express\\lib\\application.js:635:24)\n    at Object.<anonymous> (C:\\Users\\91809\\Desktop\\FundooNotes\\src\\/index.js:40:5)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Module._compile (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Object.newLoader [as .js] (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:827:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n    at Object.<anonymous> (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\@babel\\node\\lib\\_babel-node.js:176:21)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)","timestamp":"2022-06-03T10:49:02.855Z","trace":[{"column":16,"file":"node:net","function":"Server.setupListenHandle [as _listen2]","line":1380,"method":"setupListenHandle [as _listen2]","native":false},{"column":12,"file":"node:net","function":"listenInCluster","line":1428,"method":null,"native":false},{"column":7,"file":"node:net","function":"Server.listen","line":1516,"method":"listen","native":false},{"column":24,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\express\\lib\\application.js","function":"Function.listen","line":635,"method":"listen","native":false},{"column":5,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\src\\/index.js","function":null,"line":40,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1105,"method":"_compile","native":false},{"column":24,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1159,"method":".js","native":false},{"column":7,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":827,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":77,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":21,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\@babel\\node\\lib\\_babel-node.js","function":null,"line":176,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1105,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1159,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false}]}
+error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1380:16)
+    at listenInCluster (node:net:1428:12)
+    at Server.listen (node:net:1516:7)
+    at Function.listen (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\91809\Desktop\FundooNotes\src\/index.js:40:5)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._compile (C:\Users\91809\Desktop\FundooNotes\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Object.newLoader [as .js] (C:\Users\91809\Desktop\FundooNotes\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:827:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at Object.<anonymous> (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\node\lib\_babel-node.js:176:21)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32) {"date":"Fri Jun 03 2022 16:20:05 GMT+0530 (India Standard Time)","error":{"address":"::","code":"EADDRINUSE","errno":-4091,"port":3000,"syscall":"listen"},"exception":true,"os":{"loadavg":[0,0,0],"uptime":782529},"process":{"argv":["node","C:\\Users\\91809\\Desktop\\FundooNotes\\src\\index.js"],"cwd":"C:\\Users\\91809\\Desktop\\FundooNotes","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19041009,"external":21207585,"heapTotal":113410048,"heapUsed":92342208,"rss":152485888},"pid":6676,"uid":null,"version":"v18.2.0"},"stack":"Error: listen EADDRINUSE: address already in use :::3000\n    at Server.setupListenHandle [as _listen2] (node:net:1380:16)\n    at listenInCluster (node:net:1428:12)\n    at Server.listen (node:net:1516:7)\n    at Function.listen (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\express\\lib\\application.js:635:24)\n    at Object.<anonymous> (C:\\Users\\91809\\Desktop\\FundooNotes\\src\\/index.js:40:5)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Module._compile (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Object.newLoader [as .js] (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:827:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n    at Object.<anonymous> (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\@babel\\node\\lib\\_babel-node.js:176:21)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)","timestamp":"2022-06-03T10:50:05.367Z","trace":[{"column":16,"file":"node:net","function":"Server.setupListenHandle [as _listen2]","line":1380,"method":"setupListenHandle [as _listen2]","native":false},{"column":12,"file":"node:net","function":"listenInCluster","line":1428,"method":null,"native":false},{"column":7,"file":"node:net","function":"Server.listen","line":1516,"method":"listen","native":false},{"column":24,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\express\\lib\\application.js","function":"Function.listen","line":635,"method":"listen","native":false},{"column":5,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\src\\/index.js","function":null,"line":40,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1105,"method":"_compile","native":false},{"column":24,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1159,"method":".js","native":false},{"column":7,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":827,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":77,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":21,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\@babel\\node\\lib\\_babel-node.js","function":null,"line":176,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1105,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1159,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false}]}
+error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1380:16)
+    at listenInCluster (node:net:1428:12)
+    at Server.listen (node:net:1516:7)
+    at Function.listen (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\91809\Desktop\FundooNotes\src\/index.js:40:5)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._compile (C:\Users\91809\Desktop\FundooNotes\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Object.newLoader [as .js] (C:\Users\91809\Desktop\FundooNotes\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:827:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at Object.<anonymous> (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\node\lib\_babel-node.js:176:21)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32) {"date":"Fri Jun 03 2022 16:24:03 GMT+0530 (India Standard Time)","error":{"address":"::","code":"EADDRINUSE","errno":-4091,"port":3000,"syscall":"listen"},"exception":true,"os":{"loadavg":[0,0,0],"uptime":782768},"process":{"argv":["node","C:\\Users\\91809\\Desktop\\FundooNotes\\src\\index.js"],"cwd":"C:\\Users\\91809\\Desktop\\FundooNotes","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19041009,"external":21207585,"heapTotal":117604352,"heapUsed":92051896,"rss":156446720},"pid":8600,"uid":null,"version":"v18.2.0"},"stack":"Error: listen EADDRINUSE: address already in use :::3000\n    at Server.setupListenHandle [as _listen2] (node:net:1380:16)\n    at listenInCluster (node:net:1428:12)\n    at Server.listen (node:net:1516:7)\n    at Function.listen (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\express\\lib\\application.js:635:24)\n    at Object.<anonymous> (C:\\Users\\91809\\Desktop\\FundooNotes\\src\\/index.js:40:5)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Module._compile (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Object.newLoader [as .js] (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:827:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n    at Object.<anonymous> (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\@babel\\node\\lib\\_babel-node.js:176:21)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)","timestamp":"2022-06-03T10:54:03.789Z","trace":[{"column":16,"file":"node:net","function":"Server.setupListenHandle [as _listen2]","line":1380,"method":"setupListenHandle [as _listen2]","native":false},{"column":12,"file":"node:net","function":"listenInCluster","line":1428,"method":null,"native":false},{"column":7,"file":"node:net","function":"Server.listen","line":1516,"method":"listen","native":false},{"column":24,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\express\\lib\\application.js","function":"Function.listen","line":635,"method":"listen","native":false},{"column":5,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\src\\/index.js","function":null,"line":40,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1105,"method":"_compile","native":false},{"column":24,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1159,"method":".js","native":false},{"column":7,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":827,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":77,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":21,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\@babel\\node\\lib\\_babel-node.js","function":null,"line":176,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1105,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1159,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false}]}
+error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1380:16)
+    at listenInCluster (node:net:1428:12)
+    at Server.listen (node:net:1516:7)
+    at Function.listen (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\91809\Desktop\FundooNotes\src\/index.js:40:5)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._compile (C:\Users\91809\Desktop\FundooNotes\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Object.newLoader [as .js] (C:\Users\91809\Desktop\FundooNotes\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:827:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at Object.<anonymous> (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\node\lib\_babel-node.js:176:21)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32) {"date":"Fri Jun 03 2022 16:24:03 GMT+0530 (India Standard Time)","error":{"address":"::","code":"EADDRINUSE","errno":-4091,"port":3000,"syscall":"listen"},"exception":true,"os":{"loadavg":[0,0,0],"uptime":782768},"process":{"argv":["node","C:\\Users\\91809\\Desktop\\FundooNotes\\src\\index.js"],"cwd":"C:\\Users\\91809\\Desktop\\FundooNotes","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19041009,"external":21207585,"heapTotal":117866496,"heapUsed":92234928,"rss":156368896},"pid":17428,"uid":null,"version":"v18.2.0"},"stack":"Error: listen EADDRINUSE: address already in use :::3000\n    at Server.setupListenHandle [as _listen2] (node:net:1380:16)\n    at listenInCluster (node:net:1428:12)\n    at Server.listen (node:net:1516:7)\n    at Function.listen (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\express\\lib\\application.js:635:24)\n    at Object.<anonymous> (C:\\Users\\91809\\Desktop\\FundooNotes\\src\\/index.js:40:5)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Module._compile (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Object.newLoader [as .js] (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:827:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n    at Object.<anonymous> (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\@babel\\node\\lib\\_babel-node.js:176:21)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)","timestamp":"2022-06-03T10:54:03.813Z","trace":[{"column":16,"file":"node:net","function":"Server.setupListenHandle [as _listen2]","line":1380,"method":"setupListenHandle [as _listen2]","native":false},{"column":12,"file":"node:net","function":"listenInCluster","line":1428,"method":null,"native":false},{"column":7,"file":"node:net","function":"Server.listen","line":1516,"method":"listen","native":false},{"column":24,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\express\\lib\\application.js","function":"Function.listen","line":635,"method":"listen","native":false},{"column":5,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\src\\/index.js","function":null,"line":40,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1105,"method":"_compile","native":false},{"column":24,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1159,"method":".js","native":false},{"column":7,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":827,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":77,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":21,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\@babel\\node\\lib\\_babel-node.js","function":null,"line":176,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1105,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1159,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false}]}
+error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1380:16)
+    at listenInCluster (node:net:1428:12)
+    at Server.listen (node:net:1516:7)
+    at Function.listen (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\91809\Desktop\FundooNotes\src\/index.js:40:5)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._compile (C:\Users\91809\Desktop\FundooNotes\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Object.newLoader [as .js] (C:\Users\91809\Desktop\FundooNotes\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:827:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at Object.<anonymous> (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\node\lib\_babel-node.js:176:21)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32) {"date":"Fri Jun 03 2022 16:24:03 GMT+0530 (India Standard Time)","error":{"address":"::","code":"EADDRINUSE","errno":-4091,"port":3000,"syscall":"listen"},"exception":true,"os":{"loadavg":[0,0,0],"uptime":782768},"process":{"argv":["node","C:\\Users\\91809\\Desktop\\FundooNotes\\src\\index.js"],"cwd":"C:\\Users\\91809\\Desktop\\FundooNotes","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19094010,"external":21260586,"heapTotal":118390784,"heapUsed":91160672,"rss":158179328},"pid":3040,"uid":null,"version":"v18.2.0"},"stack":"Error: listen EADDRINUSE: address already in use :::3000\n    at Server.setupListenHandle [as _listen2] (node:net:1380:16)\n    at listenInCluster (node:net:1428:12)\n    at Server.listen (node:net:1516:7)\n    at Function.listen (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\express\\lib\\application.js:635:24)\n    at Object.<anonymous> (C:\\Users\\91809\\Desktop\\FundooNotes\\src\\/index.js:40:5)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Module._compile (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Object.newLoader [as .js] (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:827:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n    at Object.<anonymous> (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\@babel\\node\\lib\\_babel-node.js:176:21)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)","timestamp":"2022-06-03T10:54:03.868Z","trace":[{"column":16,"file":"node:net","function":"Server.setupListenHandle [as _listen2]","line":1380,"method":"setupListenHandle [as _listen2]","native":false},{"column":12,"file":"node:net","function":"listenInCluster","line":1428,"method":null,"native":false},{"column":7,"file":"node:net","function":"Server.listen","line":1516,"method":"listen","native":false},{"column":24,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\express\\lib\\application.js","function":"Function.listen","line":635,"method":"listen","native":false},{"column":5,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\src\\/index.js","function":null,"line":40,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1105,"method":"_compile","native":false},{"column":24,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1159,"method":".js","native":false},{"column":7,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":827,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":77,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":21,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\@babel\\node\\lib\\_babel-node.js","function":null,"line":176,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1105,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1159,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false}]}
+error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1380:16)
+    at listenInCluster (node:net:1428:12)
+    at Server.listen (node:net:1516:7)
+    at Function.listen (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\91809\Desktop\FundooNotes\src\/index.js:40:5)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._compile (C:\Users\91809\Desktop\FundooNotes\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Object.newLoader [as .js] (C:\Users\91809\Desktop\FundooNotes\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:827:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at Object.<anonymous> (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\node\lib\_babel-node.js:176:21)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32) {"date":"Fri Jun 03 2022 16:27:04 GMT+0530 (India Standard Time)","error":{"address":"::","code":"EADDRINUSE","errno":-4091,"port":3000,"syscall":"listen"},"exception":true,"os":{"loadavg":[0,0,0],"uptime":782948},"process":{"argv":["node","C:\\Users\\91809\\Desktop\\FundooNotes\\src\\index.js"],"cwd":"C:\\Users\\91809\\Desktop\\FundooNotes","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19054866,"external":21221442,"heapTotal":116031488,"heapUsed":91863664,"rss":154988544},"pid":11256,"uid":null,"version":"v18.2.0"},"stack":"Error: listen EADDRINUSE: address already in use :::3000\n    at Server.setupListenHandle [as _listen2] (node:net:1380:16)\n    at listenInCluster (node:net:1428:12)\n    at Server.listen (node:net:1516:7)\n    at Function.listen (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\express\\lib\\application.js:635:24)\n    at Object.<anonymous> (C:\\Users\\91809\\Desktop\\FundooNotes\\src\\/index.js:40:5)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Module._compile (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Object.newLoader [as .js] (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:827:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n    at Object.<anonymous> (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\@babel\\node\\lib\\_babel-node.js:176:21)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)","timestamp":"2022-06-03T10:57:04.461Z","trace":[{"column":16,"file":"node:net","function":"Server.setupListenHandle [as _listen2]","line":1380,"method":"setupListenHandle [as _listen2]","native":false},{"column":12,"file":"node:net","function":"listenInCluster","line":1428,"method":null,"native":false},{"column":7,"file":"node:net","function":"Server.listen","line":1516,"method":"listen","native":false},{"column":24,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\express\\lib\\application.js","function":"Function.listen","line":635,"method":"listen","native":false},{"column":5,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\src\\/index.js","function":null,"line":40,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1105,"method":"_compile","native":false},{"column":24,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1159,"method":".js","native":false},{"column":7,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":827,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":77,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":21,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\@babel\\node\\lib\\_babel-node.js","function":null,"line":176,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1105,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1159,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false}]}
+error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1380:16)
+    at listenInCluster (node:net:1428:12)
+    at Server.listen (node:net:1516:7)
+    at Function.listen (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\91809\Desktop\FundooNotes\src\/index.js:40:5)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._compile (C:\Users\91809\Desktop\FundooNotes\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Object.newLoader [as .js] (C:\Users\91809\Desktop\FundooNotes\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:827:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at Object.<anonymous> (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\node\lib\_babel-node.js:176:21)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32) {"date":"Fri Jun 03 2022 16:27:05 GMT+0530 (India Standard Time)","error":{"address":"::","code":"EADDRINUSE","errno":-4091,"port":3000,"syscall":"listen"},"exception":true,"os":{"loadavg":[0,0,0],"uptime":782950},"process":{"argv":["node","C:\\Users\\91809\\Desktop\\FundooNotes\\src\\index.js"],"cwd":"C:\\Users\\91809\\Desktop\\FundooNotes","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18339193,"external":20505769,"heapTotal":116817920,"heapUsed":81185376,"rss":156057600},"pid":7132,"uid":null,"version":"v18.2.0"},"stack":"Error: listen EADDRINUSE: address already in use :::3000\n    at Server.setupListenHandle [as _listen2] (node:net:1380:16)\n    at listenInCluster (node:net:1428:12)\n    at Server.listen (node:net:1516:7)\n    at Function.listen (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\express\\lib\\application.js:635:24)\n    at Object.<anonymous> (C:\\Users\\91809\\Desktop\\FundooNotes\\src\\/index.js:40:5)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Module._compile (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Object.newLoader [as .js] (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:827:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n    at Object.<anonymous> (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\@babel\\node\\lib\\_babel-node.js:176:21)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)","timestamp":"2022-06-03T10:57:05.956Z","trace":[{"column":16,"file":"node:net","function":"Server.setupListenHandle [as _listen2]","line":1380,"method":"setupListenHandle [as _listen2]","native":false},{"column":12,"file":"node:net","function":"listenInCluster","line":1428,"method":null,"native":false},{"column":7,"file":"node:net","function":"Server.listen","line":1516,"method":"listen","native":false},{"column":24,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\express\\lib\\application.js","function":"Function.listen","line":635,"method":"listen","native":false},{"column":5,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\src\\/index.js","function":null,"line":40,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1105,"method":"_compile","native":false},{"column":24,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1159,"method":".js","native":false},{"column":7,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":827,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":77,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":21,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\@babel\\node\\lib\\_babel-node.js","function":null,"line":176,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1105,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1159,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false}]}
+error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1380:16)
+    at listenInCluster (node:net:1428:12)
+    at Server.listen (node:net:1516:7)
+    at Function.listen (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\91809\Desktop\FundooNotes\src\/index.js:40:5)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._compile (C:\Users\91809\Desktop\FundooNotes\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Object.newLoader [as .js] (C:\Users\91809\Desktop\FundooNotes\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:827:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at Object.<anonymous> (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\node\lib\_babel-node.js:176:21)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32) {"date":"Fri Jun 03 2022 16:27:46 GMT+0530 (India Standard Time)","error":{"address":"::","code":"EADDRINUSE","errno":-4091,"port":3000,"syscall":"listen"},"exception":true,"os":{"loadavg":[0,0,0],"uptime":782990},"process":{"argv":["node","C:\\Users\\91809\\Desktop\\FundooNotes\\src\\index.js"],"cwd":"C:\\Users\\91809\\Desktop\\FundooNotes","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18339193,"external":20505769,"heapTotal":116555776,"heapUsed":81226256,"rss":155672576},"pid":17352,"uid":null,"version":"v18.2.0"},"stack":"Error: listen EADDRINUSE: address already in use :::3000\n    at Server.setupListenHandle [as _listen2] (node:net:1380:16)\n    at listenInCluster (node:net:1428:12)\n    at Server.listen (node:net:1516:7)\n    at Function.listen (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\express\\lib\\application.js:635:24)\n    at Object.<anonymous> (C:\\Users\\91809\\Desktop\\FundooNotes\\src\\/index.js:40:5)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Module._compile (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Object.newLoader [as .js] (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:827:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n    at Object.<anonymous> (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\@babel\\node\\lib\\_babel-node.js:176:21)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)","timestamp":"2022-06-03T10:57:46.102Z","trace":[{"column":16,"file":"node:net","function":"Server.setupListenHandle [as _listen2]","line":1380,"method":"setupListenHandle [as _listen2]","native":false},{"column":12,"file":"node:net","function":"listenInCluster","line":1428,"method":null,"native":false},{"column":7,"file":"node:net","function":"Server.listen","line":1516,"method":"listen","native":false},{"column":24,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\express\\lib\\application.js","function":"Function.listen","line":635,"method":"listen","native":false},{"column":5,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\src\\/index.js","function":null,"line":40,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1105,"method":"_compile","native":false},{"column":24,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1159,"method":".js","native":false},{"column":7,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":827,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":77,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":21,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\@babel\\node\\lib\\_babel-node.js","function":null,"line":176,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1105,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1159,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false}]}
+error: 
+    status - 500 
+    message - ReferenceError: helper is not defined
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:51:7)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/6298ccb5a300fa3a587f9781 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-03T11:17:17.093Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:114:3) 
+    url - /api/v1/users/resetPassword/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InFvdGlqb20uZnVtYW5pQGdvdGdlbC5vcmciLCJpZCI6IjYyOThjY2I1YTMwMGZhM2E1ODdmOTc4MSIsImlhdCI6MTY1NDI1NjA5Mn0.uF4HZ2T5eRCO6JZAf5dKyehUNV8G_fQb2z8-Su31e4A 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-03T11:45:11.550Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:114:3) 
+    url - /api/v1/users/resetPassword/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InFvdGlqb20uZnVtYW5pQGdvdGdlbC5vcmciLCJpZCI6IjYyOThjY2I1YTMwMGZhM2E1ODdmOTc4MSIsImlhdCI6MTY1NDI1NjA5Mn0.uF4HZ2T5eRCO6JZAf5dKyehUNV8G_fQb2z8-Su31e4A 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-03T11:45:25.461Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:114:3) 
+    url - /api/v1/users/resetPassword/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InFvdGlqb20uZnVtYW5pQGdvdGdlbC5vcmciLCJpZCI6IjYyOThjY2I1YTMwMGZhM2E1ODdmOTc4MSIsImlhdCI6MTY1NDI1NjA5Mn0.uF4HZ2T5eRCO6JZAf5dKyehUNV8G_fQb2z8-Su31e4A 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-03T11:46:06.808Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:114:3) 
+    url - /api/v1/users/resetPassword/6298ccb5a300fa3a587f9781 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-03T11:56:16.004Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:114:3) 
+    url - /api/v1/users/resetPassword/6298ccb5a300fa3a587f9781 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-03T11:56:40.806Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:114:3) 
+    url - /api/v1/users/resetPassword/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InFvdGlqb20uZnVtYW5pQGdvdGdlbC5vcmciLCJpZCI6IjYyOThjY2I1YTMwMGZhM2E1ODdmOTc4MSIsImlhdCI6MTY1NDI1Njk4MH0.q3E3zgtkzZfzjdMOFTe9EmyytTm6nw6b6CGX16nFL-s 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-03T11:57:35.117Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:114:3) 
+    url - /api/v1/users/resetPassword/6298ccb5a300fa3a587f9781 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-03T12:00:39.747Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:114:3) 
+    url - /api/v1/users/resetPassword/6298ccb5a300fa3a587f9781 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-03T12:02:42.299Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:114:3) 
+    url - /api/v1/users/resetPassword/6298ccb5a300fa3a587f9781 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-03T12:05:59.922Z"}
+error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1380:16)
+    at listenInCluster (node:net:1428:12)
+    at Server.listen (node:net:1516:7)
+    at Function.listen (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\91809\Desktop\FundooNotes\src\/index.js:40:5)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._compile (C:\Users\91809\Desktop\FundooNotes\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Object.newLoader [as .js] (C:\Users\91809\Desktop\FundooNotes\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:827:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at Object.<anonymous> (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\node\lib\_babel-node.js:176:21)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32) {"date":"Fri Jun 03 2022 21:10:04 GMT+0530 (India Standard Time)","error":{"address":"::","code":"EADDRINUSE","errno":-4091,"port":3000,"syscall":"listen"},"exception":true,"os":{"loadavg":[0,0,0],"uptime":799929},"process":{"argv":["node","C:\\Users\\91809\\Desktop\\FundooNotes\\src\\index.js"],"cwd":"C:\\Users\\91809\\Desktop\\FundooNotes","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18378199,"external":20568623,"heapTotal":117604352,"heapUsed":85834216,"rss":154632192},"pid":8300,"uid":null,"version":"v18.2.0"},"stack":"Error: listen EADDRINUSE: address already in use :::3000\n    at Server.setupListenHandle [as _listen2] (node:net:1380:16)\n    at listenInCluster (node:net:1428:12)\n    at Server.listen (node:net:1516:7)\n    at Function.listen (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\express\\lib\\application.js:635:24)\n    at Object.<anonymous> (C:\\Users\\91809\\Desktop\\FundooNotes\\src\\/index.js:40:5)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Module._compile (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Object.newLoader [as .js] (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:827:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n    at Object.<anonymous> (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\@babel\\node\\lib\\_babel-node.js:176:21)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)","timestamp":"2022-06-03T15:40:04.634Z","trace":[{"column":16,"file":"node:net","function":"Server.setupListenHandle [as _listen2]","line":1380,"method":"setupListenHandle [as _listen2]","native":false},{"column":12,"file":"node:net","function":"listenInCluster","line":1428,"method":null,"native":false},{"column":7,"file":"node:net","function":"Server.listen","line":1516,"method":"listen","native":false},{"column":24,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\express\\lib\\application.js","function":"Function.listen","line":635,"method":"listen","native":false},{"column":5,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\src\\/index.js","function":null,"line":40,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1105,"method":"_compile","native":false},{"column":24,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1159,"method":".js","native":false},{"column":7,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":827,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":77,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":21,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\@babel\\node\\lib\\_babel-node.js","function":null,"line":176,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1105,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1159,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false}]}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:114:3) 
+    url - /api/v1/users/resetPassword/6298ccb5a300fa3a587f9781 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-03T15:43:36.636Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:114:3) 
+    url - /api/v1/users/resetPassword 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-03T15:52:31.638Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:114:3) 
+    url - /api/v1/users/resetPassword 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-03T15:59:08.936Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:114:3) 
+    url - /api/v1/users/resetPassword 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-03T19:37:32.042Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:114:3) 
+    url - /api/v1/users/resetPassword 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-03T19:45:46.057Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:114:3) 
+    url - /api/v1/users/resetPassword 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-03T19:48:21.318Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:114:3) 
+    url - /api/v1/users/resetPassword 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-03T19:49:45.618Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:114:3) 
+    url - /api/v1/users/resetPassword 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-03T19:49:59.060Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:114:3) 
+    url - /api/v1/users/resetPassword 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-03T19:53:00.074Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:114:3) 
+    url - /api/v1/users/resetPassword 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-03T19:56:40.259Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/6298ccb5a300fa3a587f9781 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-04T02:26:15.886Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:114:3) 
+    url - /api/v1/users/resetPassword 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-04T02:29:43.581Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:114:3) 
+    url - /api/v1/users/resetPassword 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-04T02:29:57.732Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token s in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (C:\Users\91809\Desktop\FundooNotes\node_modules\body-parser\lib\types\json.js:160:10)
+    at parse (C:\Users\91809\Desktop\FundooNotes\node_modules\body-parser\lib\types\json.js:83:15)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:202:9)
+    at invokeCallback (C:\Users\91809\Desktop\FundooNotes\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\91809\Desktop\FundooNotes\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\91809\Desktop\FundooNotes\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:527:28)
+    at IncomingMessage.emit (node:domain:475:12)
+    at endReadableNT (node:internal/streams/readable:1344:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/notes/update/%7BnodeId%7D 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-06-05T17:27:15.976Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/update/%7BnodeId%7D 
+      method - PUT 
+      IP - ::1
+     {"timestamp":"2022-06-05T17:28:46.494Z"}
+error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1380:16)
+    at listenInCluster (node:net:1428:12)
+    at Server.listen (node:net:1516:7)
+    at Function.listen (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\91809\Desktop\FundooNotes\src\/index.js:40:5)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._compile (C:\Users\91809\Desktop\FundooNotes\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Object.newLoader [as .js] (C:\Users\91809\Desktop\FundooNotes\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:827:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at Object.<anonymous> (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\node\lib\_babel-node.js:176:21)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32) {"date":"Mon Jun 06 2022 14:15:56 GMT+0530 (India Standard Time)","error":{"address":"::","code":"EADDRINUSE","errno":-4091,"port":3000,"syscall":"listen"},"exception":true,"os":{"loadavg":[0,0,0],"uptime":12990},"process":{"argv":["node","C:\\Users\\91809\\Desktop\\FundooNotes\\src\\index.js"],"cwd":"C:\\Users\\91809\\Desktop\\FundooNotes","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18909569,"external":21101133,"heapTotal":118145024,"heapUsed":95308552,"rss":155467776},"pid":7632,"uid":null,"version":"v18.2.0"},"stack":"Error: listen EADDRINUSE: address already in use :::3000\n    at Server.setupListenHandle [as _listen2] (node:net:1380:16)\n    at listenInCluster (node:net:1428:12)\n    at Server.listen (node:net:1516:7)\n    at Function.listen (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\express\\lib\\application.js:635:24)\n    at Object.<anonymous> (C:\\Users\\91809\\Desktop\\FundooNotes\\src\\/index.js:40:5)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Module._compile (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Object.newLoader [as .js] (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:827:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n    at Object.<anonymous> (C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\@babel\\node\\lib\\_babel-node.js:176:21)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)","timestamp":"2022-06-06T08:45:56.906Z","trace":[{"column":16,"file":"node:net","function":"Server.setupListenHandle [as _listen2]","line":1380,"method":"setupListenHandle [as _listen2]","native":false},{"column":12,"file":"node:net","function":"listenInCluster","line":1428,"method":null,"native":false},{"column":7,"file":"node:net","function":"Server.listen","line":1516,"method":"listen","native":false},{"column":24,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\express\\lib\\application.js","function":"Function.listen","line":635,"method":"listen","native":false},{"column":5,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\src\\/index.js","function":null,"line":40,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1105,"method":"_compile","native":false},{"column":24,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1159,"method":".js","native":false},{"column":7,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":827,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":77,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":21,"file":"C:\\Users\\91809\\Desktop\\FundooNotes\\node_modules\\@babel\\node\\lib\\_babel-node.js","function":null,"line":176,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1105,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1159,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false}]}
