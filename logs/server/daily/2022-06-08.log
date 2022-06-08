@@ -1,0 +1,82 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-08T02:38:39.922Z"}
+info: Connected to the database. {"timestamp":"2022-06-08T02:38:45.406Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-08T02:38:47.356Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-08T02:38:49.302Z"}
+error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials iz12-20020a170902ef8c00b00162037fbb68sm13212592plb.215 - gsmtp {"code":"EAUTH","command":"AUTH PLAIN","response":"535-5.7.8 Username and Password not accepted. Learn more at\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials iz12-20020a170902ef8c00b00162037fbb68sm13212592plb.215 - gsmtp","responseCode":535,"timestamp":"2022-06-08T02:38:50.673Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/getbyId/62a00bbd79402a0738b257c7 
+      method - GET 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-06-08T02:38:54.776Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-08T02:45:35.978Z"}
+info: Connected to the database. {"timestamp":"2022-06-08T02:45:40.164Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-08T02:45:42.517Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-08T02:45:44.186Z"}
+error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials o19-20020a170903009300b001620db30cd6sm13147026pld.201 - gsmtp {"code":"EAUTH","command":"AUTH PLAIN","response":"535-5.7.8 Username and Password not accepted. Learn more at\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials o19-20020a170903009300b001620db30cd6sm13147026pld.201 - gsmtp","responseCode":535,"timestamp":"2022-06-08T02:45:44.981Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-08T04:27:41.968Z"}
+info: Connected to the database. {"timestamp":"2022-06-08T04:27:47.201Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-08T04:27:49.939Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-08T04:27:51.747Z"}
+error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d70-20020a633649000000b003fe2b87cf03sm560332pga.80 - gsmtp {"code":"EAUTH","command":"AUTH PLAIN","response":"535-5.7.8 Username and Password not accepted. Learn more at\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials d70-20020a633649000000b003fe2b87cf03sm560332pga.80 - gsmtp","responseCode":535,"timestamp":"2022-06-08T04:27:52.482Z"}

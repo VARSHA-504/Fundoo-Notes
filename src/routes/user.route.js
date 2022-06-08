@@ -1,7 +1,7 @@
 import express from 'express';
 import * as userController from '../controllers/user.controller';
 import { newUserValidator } from '../validators/user.validator';
-import { userAuth } from '../middlewares/auth.middleware';
+import { resetAuth } from '../middlewares/auth.middleware';
 
 const router = express.Router();
 
@@ -9,18 +9,14 @@ const router = express.Router();
 // router.get('', userController.getAllUsers);
 
 // route for user registration
-router.post('', newUserValidator, userController.userRegistration);
+router.post('/registration', newUserValidator, userController.userRegistration);
 
 // route for user login
 router.post('/login', userController.userLogin);
 
-router.post('/forgotPassword/:_id', userController.forgotPassword);
+router.post('/forgotPassword', userController.forgotPassword);
 
-<<<<<<< HEAD
-router.post('/resetPassword/:_id', userAuth, userController.resetPassword);
-=======
-router.post('/resetPassword', userAuth, userController.resetPassword);
->>>>>>> Swagger
+router.post('/resetPassword', resetAuth, userController.resetPassword);
 
 // route to create a new user
 // router.post('', newUserValidator, userController.newUser);
