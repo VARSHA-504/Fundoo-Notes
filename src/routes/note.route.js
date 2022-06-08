@@ -5,13 +5,13 @@ import { userAuth } from '../middlewares/auth.middleware';
 
 const router = express.Router();
 
-router.post('', newNoteValidator, userAuth, NoteController.createNote);
+router.post('/new', newNoteValidator, userAuth, NoteController.createNote);
 
-router.put('/update/:_id', userAuth, NoteController.updateNote);
+router.post('/update/:_id', userAuth, NoteController.updateNote);
 
 router.get('/getbyId/:_id', userAuth, NoteController.getNote);
 
-router.get('/get/', NoteController.getAllNotes);
+router.get('/get', NoteController.getAllNotes);
 
 router.delete('/delete/:_id', userAuth,  NoteController.deleteNote);
 

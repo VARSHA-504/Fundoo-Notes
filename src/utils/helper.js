@@ -21,11 +21,7 @@ export const sendMail = (userMailID, token) => {
     from: process.env.SENDER_ID,
     to: userMailID,
     subject: "Password Reset Link",
-<<<<<<< HEAD
     html: `<h1>Hello,<br><br>Click on given link to reset your password!</h1><br><h1>Link:><"$http://localhost:3000/users/resetPassword/y${token}">click here</a></h1>`, // html body
-=======
-    html: `<h1>Hello,<br><br>Click on given link to reset your password!</h1><br><h1>Link:><a href="http://localhost:5000/api/v1/users/resetPassword/${token}">click here</a></h1>`, // html body
->>>>>>> Swagger
   }
 
   transport.sendMail(mailOption, (err, info_) => {

@@ -1,0 +1,3106 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T18:30:10.039Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T18:30:13.491Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T18:30:15.361Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/6298ccb5a300fa3a587f9781 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T18:30:17.034Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T18:35:58.595Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T18:36:02.421Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T18:36:04.437Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T18:36:06.026Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T18:37:35.149Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T18:37:38.677Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T18:37:40.563Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T18:46:00.134Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T18:46:03.863Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T18:48:17.518Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T18:49:19.020Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T18:49:22.432Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T18:51:17.566Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T18:51:21.113Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T18:51:53.405Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T18:51:56.779Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T18:53:14.706Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T18:53:18.273Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T18:53:20.099Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T18:53:22.308Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T18:56:45.818Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T18:56:49.036Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T18:56:50.791Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T18:56:53.263Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T18:58:48.994Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T18:58:52.426Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T18:58:54.230Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T18:58:56.517Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T18:59:26.666Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T18:59:30.210Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T18:59:31.995Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T18:59:34.471Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T19:04:58.780Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T19:05:02.153Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T19:05:04.030Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T19:05:06.391Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T19:07:00.655Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T19:07:04.313Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T19:07:06.055Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T19:07:07.709Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T19:09:15.839Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T19:09:19.393Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T19:12:59.109Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T19:13:02.714Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T19:13:35.566Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T19:13:38.895Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T19:13:40.749Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T19:13:43.128Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T19:14:51.023Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T19:14:54.981Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T19:14:56.909Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/6298ccb5a300fa3a587f9781 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-06-06T19:14:58.477Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T19:14:59.650Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T19:16:46.452Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T19:16:49.808Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T19:16:51.379Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/ 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-06-06T19:16:52.845Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T19:16:53.639Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T19:21:15.012Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T19:21:18.973Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T19:21:20.773Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/new/6298ccb5a300fa3a587f9781 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-06-06T19:21:22.240Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T19:21:23.310Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T19:23:13.252Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T19:23:16.632Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T19:24:16.277Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T19:24:20.085Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/new/6298ccb5a300fa3a587f9781 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-06T19:24:29.445Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/new/6298ccb5a300fa3a587f9781 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-06T19:24:35.626Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T19:26:20.423Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T19:26:24.245Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T19:26:26.039Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/new/6298ccb5a300fa3a587f9781 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-06-06T19:26:27.985Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at runNextTicks (node:internal/process/task_queues:64:3)
+    at processImmediate (node:internal/timers:442:9) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T19:26:29.194Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/update/629e44c7c946051228047f7c 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-06-06T19:26:29.669Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T19:27:51.182Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T19:27:55.021Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T19:29:09.392Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T19:29:12.620Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T19:30:13.460Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T19:30:17.284Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T19:30:19.246Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/new/6298ccb5a300fa3a587f9781 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-06-06T19:30:20.489Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T19:30:21.565Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/update/629e44c7c946051228047f7c 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-06-06T19:30:21.893Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T19:32:45.227Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T19:32:48.378Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T19:32:50.134Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/new/6298ccb5a300fa3a587f9781 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-06-06T19:32:51.595Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T19:32:52.780Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/update/629e44c7c946051228047f7c 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-06-06T19:32:52.957Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T19:33:49.565Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T19:33:53.250Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T19:33:55.099Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/new/6298ccb5a300fa3a587f9781 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-06-06T19:33:56.347Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T19:33:57.398Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/update/629e554f2583bb0d902cdbdc 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-06-06T19:33:57.609Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T19:37:48.765Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T19:37:52.143Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T19:37:53.990Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T19:39:01.296Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T19:39:04.645Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T19:39:06.677Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/new/6298ccb5a300fa3a587f9781 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-06-06T19:39:07.845Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T19:39:08.969Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T19:41:29.741Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T19:41:33.292Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T19:41:34.964Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/new 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-06-06T19:41:36.489Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T19:41:37.657Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T19:43:12.985Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T19:43:16.655Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T19:43:18.458Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/new 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-06-06T19:43:20.190Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T19:43:21.413Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T19:44:33.267Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T19:44:36.797Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T19:46:37.492Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T19:46:41.761Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T19:46:43.796Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/update/629e554f2583bb0d902cdbdc 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-06-06T19:46:45.358Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T19:46:47.542Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T19:49:09.903Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T19:49:13.410Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T19:49:15.173Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/new 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-06-06T19:49:16.409Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T19:49:17.562Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T19:50:56.377Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T19:50:59.812Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T19:51:01.493Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/new 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-06-06T19:51:02.981Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T19:51:03.965Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T01:22:10.600Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T01:22:14.035Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T01:22:15.611Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/new 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-06-07T01:22:16.935Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T01:23:59.426Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T01:24:02.374Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T01:24:03.993Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/new 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-06-07T01:24:05.109Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T01:28:40.800Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T01:28:44.013Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T01:28:46.715Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T01:28:48.549Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/new 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-06-07T01:28:48.590Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T01:31:15.062Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T01:31:18.483Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T01:31:19.993Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/new 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-06-07T01:32:20.216Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T01:37:34.419Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T01:37:37.378Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T01:37:38.766Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T01:41:30.605Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T01:41:35.554Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T01:41:37.955Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T01:43:10.962Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T01:43:13.944Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T01:43:15.520Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T01:45:09.827Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T01:45:12.976Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T01:45:14.453Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/new 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-06-07T01:45:15.766Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T01:45:16.980Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T01:48:23.031Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T01:48:25.878Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\91809\Desktop\FundooNotes\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:202:9)
+    at invokeCallback (C:\Users\91809\Desktop\FundooNotes\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\91809\Desktop\FundooNotes\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\91809\Desktop\FundooNotes\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:527:28)
+    at IncomingMessage.emit (node:domain:475:12)
+    at endReadableNT (node:internal/streams/readable:1344:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-07T01:49:01.855Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T01:51:09.614Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T01:51:12.603Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T01:51:14.070Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/new 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-06-07T01:51:15.186Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T01:51:53.323Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T01:51:56.267Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T01:51:57.671Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/new 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-06-07T01:51:59.033Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T01:55:45.419Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T01:55:48.515Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T01:55:49.954Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/new 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-06-07T01:55:51.004Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T01:56:45.320Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T01:56:48.385Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T01:56:49.838Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/new 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-06-07T01:56:51.289Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T01:58:47.767Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T01:58:50.684Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T01:58:52.163Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T01:58:53.676Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T02:00:41.845Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T02:00:44.914Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T02:00:46.183Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/new 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-06-07T02:00:46.847Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T02:10:08.484Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T02:10:11.465Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/new 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-07T02:10:27.539Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T02:12:29.600Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T02:12:32.501Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T02:12:34.006Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/new 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-06-07T02:12:35.383Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T02:12:36.538Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T02:24:32.670Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T02:24:36.209Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T03:13:41.834Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T03:13:49.417Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T03:13:51.001Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt must be provided
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:53:17)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at newNoteValidator (C:\Users\91809\Desktop\FundooNotes\src\validators\/user.validator.js:34:5)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\91809\Desktop\FundooNotes\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:202:9)
+    at invokeCallback (C:\Users\91809\Desktop\FundooNotes\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\91809\Desktop\FundooNotes\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\91809\Desktop\FundooNotes\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:527:28)
+    at endReadableNT (node:internal/streams/readable:1344:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/notes/new 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T03:13:51.999Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T03:13:53.133Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T06:32:17.065Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T06:32:20.973Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T06:32:22.481Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt must be provided
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:53:17)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at newNoteValidator (C:\Users\91809\Desktop\FundooNotes\src\validators\/user.validator.js:34:5)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\91809\Desktop\FundooNotes\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:202:9)
+    at invokeCallback (C:\Users\91809\Desktop\FundooNotes\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\91809\Desktop\FundooNotes\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\91809\Desktop\FundooNotes\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:527:28)
+    at endReadableNT (node:internal/streams/readable:1344:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/notes/new 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T06:32:23.312Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T06:32:23.647Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T06:34:23.670Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T06:34:27.124Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T06:34:28.431Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt must be provided
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:53:17)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at newNoteValidator (C:\Users\91809\Desktop\FundooNotes\src\validators\/user.validator.js:34:5)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\91809\Desktop\FundooNotes\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:202:9)
+    at invokeCallback (C:\Users\91809\Desktop\FundooNotes\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\91809\Desktop\FundooNotes\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\91809\Desktop\FundooNotes\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:527:28)
+    at endReadableNT (node:internal/streams/readable:1344:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/notes/new 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T06:34:29.337Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T06:34:29.755Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T06:42:47.839Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T06:42:51.646Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T06:42:53.055Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T06:42:54.540Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt must be provided
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:53:17)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at newNoteValidator (C:\Users\91809\Desktop\FundooNotes\src\validators\/user.validator.js:34:5)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\91809\Desktop\FundooNotes\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:202:9)
+    at invokeCallback (C:\Users\91809\Desktop\FundooNotes\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\91809\Desktop\FundooNotes\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\91809\Desktop\FundooNotes\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:527:28)
+    at endReadableNT (node:internal/streams/readable:1344:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/notes/new 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T06:42:54.958Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T06:45:42.439Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T06:45:45.929Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T06:45:47.241Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T06:45:48.197Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt must be provided
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:53:17)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at newNoteValidator (C:\Users\91809\Desktop\FundooNotes\src\validators\/user.validator.js:34:5)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\91809\Desktop\FundooNotes\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:202:9)
+    at invokeCallback (C:\Users\91809\Desktop\FundooNotes\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\91809\Desktop\FundooNotes\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\91809\Desktop\FundooNotes\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:527:28)
+    at endReadableNT (node:internal/streams/readable:1344:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/notes/new 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T06:45:48.514Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T06:55:57.460Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T06:56:01.463Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T06:56:03.074Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T06:56:04.598Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T07:17:30.423Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T07:17:34.861Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T07:17:36.504Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T07:17:37.527Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T07:18:45.785Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T07:18:49.612Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T07:18:50.835Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T07:18:51.767Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: '{nodeId}', UserID: 'neha@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/update/%7BnodeId%7D 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T07:18:52.203Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T07:30:07.000Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T07:30:11.487Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T07:30:13.160Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T07:30:14.259Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: '{nodeId}', UserID: 'neha@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/update/%7BnodeId%7D 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T07:30:15.315Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T07:31:40.455Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T07:31:44.057Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T07:31:45.340Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T07:31:46.320Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: '{nodeId}', UserID: 'neha@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/update/%7BnodeId%7D 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T07:31:46.826Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T07:35:49.903Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T07:35:53.918Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T07:35:55.434Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T07:35:56.482Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: '{nodeid}', UserID: 'neha@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/update/%7Bnodeid%7D 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T07:35:56.919Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T07:38:19.474Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T07:38:23.521Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T07:38:24.758Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T07:38:25.671Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: '{nodeid}', UserID: 'neha@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/update/%7Bnodeid%7D 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T07:38:26.157Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T07:39:29.743Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T07:39:33.686Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T07:39:34.879Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T07:39:35.821Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: '{nodeid}', UserID: 'neha@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/update/%7Bnodeid%7D 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T07:39:36.536Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T07:40:19.960Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T07:40:28.239Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T07:40:29.451Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T07:40:30.394Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: '{nodeid}', UserID: 'neha@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/update/%7Bnodeid%7D 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T07:40:30.820Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T07:43:21.097Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T07:43:25.600Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T07:43:27.354Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T07:43:28.991Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: '{nodeid}', UserID: 'neha@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/update/%7Bnodeid%7D 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T07:43:30.020Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T07:47:02.869Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T07:47:07.192Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T07:47:08.884Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T07:47:09.861Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: '{noteid}', UserID: 'neha@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/update/%7Bnoteid%7D 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T07:47:10.336Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T07:50:08.520Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T07:50:12.225Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T07:50:13.447Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T07:50:14.382Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: '{noteid}', UserID: 'neha@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/update/%7Bnoteid%7D 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T07:50:14.873Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T07:56:10.475Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T07:56:14.108Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T07:56:15.425Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T07:56:16.470Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T07:57:28.902Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T07:57:32.955Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T07:57:34.484Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T07:57:35.559Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'undefined', UserID: 'neha@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/update/undefined 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T07:57:36.056Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T08:01:09.666Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T08:01:13.661Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T08:01:15.074Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T08:01:15.987Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'undefined', UserID: 'neha@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/update/undefined 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T08:01:16.494Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T08:02:58.812Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T08:03:03.301Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T08:03:05.126Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T08:03:06.273Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: '_id', UserID: 'neha@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/update/_id 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T08:03:06.717Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T08:04:26.892Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T08:04:31.361Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T08:04:33.204Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T08:04:34.393Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: undefined, UserID: 'neha@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/update/_id 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T08:04:34.810Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T08:07:51.905Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T08:07:55.872Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T08:07:57.055Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T08:07:57.966Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: '_id', UserID: 'neha@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/update/_id 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T08:07:58.418Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T09:46:48.662Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T09:46:54.014Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T09:46:55.432Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T09:46:56.601Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: '_id', UserID: 'neha@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/update/_id 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T09:46:57.231Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T09:48:20.378Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T09:48:24.234Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T09:48:25.648Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T09:48:26.583Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: ':_id', UserID: 'neha@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/update/:_id 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T09:48:27.088Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T09:50:15.283Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T09:50:18.705Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T09:50:20.017Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T09:50:20.966Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: ':_id', UserID: 'neha@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/update/:_id 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T09:50:21.418Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T09:52:50.364Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T09:52:53.743Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T09:52:54.961Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T09:52:56.001Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: '$(noteId)', UserID: 'neha@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/update/$(noteId) 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T09:52:56.522Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T09:57:10.696Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T09:57:14.139Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T09:57:15.358Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T09:57:16.294Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: '$(noteId)', UserID: 'neha@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/update/$(noteId) 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T09:57:16.773Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T10:02:22.192Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T10:02:25.844Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:02:27.181Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:02:28.099Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T10:03:44.442Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T10:03:48.052Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:03:49.279Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:03:50.246Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'undefined', UserID: 'neha@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/update/undefined 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:03:50.797Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T10:05:46.018Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T10:05:49.317Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:05:50.522Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:05:51.460Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T10:08:13.882Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T10:08:17.584Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:08:18.889Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:08:19.908Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: undefined, UserID: 'neha@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/update/undefined 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:08:20.410Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T10:10:12.468Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T10:10:16.377Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:10:17.606Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:10:18.588Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'undefined', UserID: 'neha@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/update/undefined 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:10:19.039Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T10:11:42.411Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T10:11:46.077Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:11:47.490Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:11:48.448Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'undefined', UserID: 'neha@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/update/undefined 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:11:48.911Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T10:15:45.634Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T10:15:50.994Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:15:52.332Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:15:54.605Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'undefined', UserID: 'neha@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/update/undefined 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:15:55.367Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T10:20:35.759Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T10:20:39.266Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:20:40.575Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:20:41.481Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'undefined', UserID: 'neha@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/update/undefined 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:20:41.941Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T10:25:08.593Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T10:25:17.286Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:25:18.502Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:25:19.396Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'undefined', UserID: 'neha@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/update/undefined 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:25:19.790Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T10:42:20.615Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T10:42:24.245Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:42:25.552Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:42:26.500Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T10:43:41.640Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T10:43:44.940Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:43:46.269Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:43:47.903Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'undefined', UserID: 'neha@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/update/undefined 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:43:48.719Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T10:44:27.136Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T10:44:30.197Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:44:31.503Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:44:32.547Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'undefined', UserID: 'neha@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/update/undefined 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:44:32.976Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T10:45:22.131Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T10:45:25.994Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:45:27.351Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:45:28.457Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'undefined', UserID: 'neha@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/update/undefined 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:45:29.172Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T10:47:21.478Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T10:47:25.446Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:47:26.744Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:47:27.669Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'undefined', UserID: 'neha@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/update/undefined 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:47:28.113Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T10:49:08.738Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T10:49:12.404Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:49:13.616Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:49:14.569Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: 'undefined', UserID: 'neha@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\91809\Desktop\FundooNotes\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/notes/update/undefined 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:49:15.044Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T10:52:17.929Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T10:52:21.538Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:52:22.731Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:52:23.691Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T10:55:56.938Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T10:56:00.581Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:56:01.799Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T10:59:37.932Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T10:59:41.547Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T10:59:42.867Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T11:11:10.918Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T11:11:14.646Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T11:11:15.903Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T11:14:27.934Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T11:14:36.529Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T11:14:37.833Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T11:16:18.682Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T11:16:22.507Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T11:16:23.845Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T11:16:24.719Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T11:17:43.965Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T11:17:47.808Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T11:17:49.327Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T11:17:50.329Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T11:26:41.673Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T11:26:45.857Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T11:26:47.522Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T15:47:19.906Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T15:47:24.424Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T15:47:25.607Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T15:54:53.207Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T15:54:57.101Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T15:54:58.571Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629f74d1f987bf1eecfc14f8 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T15:54:59.886Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T15:58:02.976Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T15:58:07.076Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T15:58:08.367Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629f758f24f7923570de5703 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T15:58:09.326Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T16:01:15.912Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T16:01:19.479Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T16:01:20.780Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T16:52:16.998Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T16:52:20.569Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T16:52:21.872Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T16:56:03.775Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T16:56:07.389Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T16:56:08.587Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T17:02:11.071Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T17:02:14.491Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T17:02:15.688Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T17:03:45.836Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T17:03:49.205Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T17:03:50.644Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T17:05:52.256Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T17:05:55.876Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T17:05:57.177Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T17:11:57.650Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T17:12:01.446Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T17:12:02.633Z"}
+error: 
+    status - 500 
+    message - TypeError: UserService.resetpassword is not a function
+    at _callee4$ (C:\Users\91809\Desktop\FundooNotes\src\controllers\/user.controller.js:80:36)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at resetPassword (C:\Users\91809\Desktop\FundooNotes\src\controllers\/user.controller.js:78:27)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at _callee2$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:45:5)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/resetPassword 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T17:12:03.842Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T17:13:43.465Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T17:13:46.913Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T17:13:48.129Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt must be provided
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:53:17)
+    at _callee2$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:43:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at resetAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:33:23)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\91809\Desktop\FundooNotes\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:202:9)
+    at invokeCallback (C:\Users\91809\Desktop\FundooNotes\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\91809\Desktop\FundooNotes\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\91809\Desktop\FundooNotes\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:527:28)
+    at endReadableNT (node:internal/streams/readable:1344:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/resetPassword 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T17:13:49.277Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T17:16:21.865Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T17:16:25.433Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T17:16:26.737Z"}
+error: 
+    status - 500 
+    message - TypeError: UserService.resetpassword is not a function
+    at _callee4$ (C:\Users\91809\Desktop\FundooNotes\src\controllers\/user.controller.js:80:36)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at resetPassword (C:\Users\91809\Desktop\FundooNotes\src\controllers\/user.controller.js:78:27)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at _callee2$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:45:5)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/resetPassword 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T17:16:27.785Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T17:17:40.972Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T17:17:44.578Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T17:17:45.794Z"}
+error: 
+    status - 500 
+    message - ReferenceError: hash is not defined
+    at _callee4$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:60:3)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/resetPassword 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T17:17:47.007Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T17:20:44.383Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T17:20:47.467Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T17:20:48.684Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T17:28:21.426Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T17:28:24.992Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T17:28:26.200Z"}
+error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials c15-20020a170902c2cf00b0016231f64631sm12513393pla.309 - gsmtp {"code":"EAUTH","command":"AUTH PLAIN","response":"535-5.7.8 Username and Password not accepted. Learn more at\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials c15-20020a170902c2cf00b0016231f64631sm12513393pla.309 - gsmtp","responseCode":535,"timestamp":"2022-06-07T17:28:28.576Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T17:39:37.578Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T17:39:41.027Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T17:39:42.337Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T17:40:58.687Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T17:41:02.335Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T17:41:03.532Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T17:42:27.627Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T17:42:31.113Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T17:42:32.415Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T17:44:30.990Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T17:44:34.504Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T17:44:35.717Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T17:47:04.264Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T17:47:07.901Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T17:47:09.082Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T17:47:10.392Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt must be provided
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:53:17)
+    at _callee2$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:43:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at resetAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:33:23)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\91809\Desktop\FundooNotes\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:202:9)
+    at invokeCallback (C:\Users\91809\Desktop\FundooNotes\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\91809\Desktop\FundooNotes\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\91809\Desktop\FundooNotes\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:527:28)
+    at endReadableNT (node:internal/streams/readable:1344:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/resetPassword 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T17:47:10.684Z"}
+error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials g24-20020a1709029f9800b0016191b843e2sm12765097plq.235 - gsmtp {"code":"EAUTH","command":"AUTH PLAIN","response":"535-5.7.8 Username and Password not accepted. Learn more at\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials g24-20020a1709029f9800b0016191b843e2sm12765097plq.235 - gsmtp","responseCode":535,"timestamp":"2022-06-07T17:47:11.356Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-07T17:48:49.194Z"}
+info: Connected to the database. {"timestamp":"2022-06-07T17:48:52.551Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T17:48:53.865Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-07T17:48:55.226Z"}
+error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials cp9-20020a056a00348900b0051c15bb876esm5070767pfb.174 - gsmtp {"code":"EAUTH","command":"AUTH PLAIN","response":"535-5.7.8 Username and Password not accepted. Learn more at\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials cp9-20020a056a00348900b0051c15bb876esm5070767pfb.174 - gsmtp","responseCode":535,"timestamp":"2022-06-07T17:48:56.325Z"}

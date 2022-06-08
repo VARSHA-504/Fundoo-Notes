@@ -44,3 +44,458 @@ info: Connected to the database. {"timestamp":"2022-06-06T09:01:19.153Z"}
 info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T09:02:26.890Z"}
 info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T09:03:56.777Z"}
 info: Connected to the database. {"timestamp":"2022-06-06T09:04:00.329Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T10:57:23.185Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T10:57:27.030Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T10:58:28.612Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T10:58:29.500Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T11:02:05.304Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T11:02:05.675Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T11:18:17.694Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T11:18:18.311Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T11:24:24.073Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T11:24:24.673Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T13:27:56.294Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T13:27:56.955Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T13:33:27.207Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T13:36:03.250Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T13:39:05.812Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T13:47:20.760Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T13:47:21.512Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T13:52:53.211Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T13:52:53.861Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T13:52:56.504Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T13:54:02.435Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T13:54:03.045Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T13:54:05.631Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T13:55:24.257Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T13:55:24.914Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T13:55:27.601Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T14:06:56.553Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T14:06:57.186Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T14:06:59.656Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T14:07:37.355Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T14:07:37.999Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T14:07:40.273Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T14:11:39.721Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T14:11:40.395Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T14:11:43.389Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T14:16:42.853Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T14:16:43.158Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T14:26:36.526Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T14:26:36.778Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T14:26:40.722Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T14:27:45.541Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T14:27:45.856Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T14:27:48.913Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T14:29:33.471Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T14:29:34.146Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T14:29:36.842Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T14:31:29.126Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T14:31:29.296Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T14:34:18.362Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T14:34:19.141Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T14:38:05.413Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T14:38:06.193Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T14:40:50.420Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" must be a valid email 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T14:40:51.236Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T14:42:15.746Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T14:42:19.307Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T14:48:00.710Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T14:48:04.305Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T15:22:28.893Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T15:22:32.256Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T15:22:33.928Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T15:30:59.656Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T15:31:03.671Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T15:31:05.249Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T15:34:06.541Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T15:34:10.119Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T15:34:12.196Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T15:34:46.317Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T15:34:49.444Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T15:34:51.152Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T15:40:48.831Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T15:40:52.246Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T15:40:53.828Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T15:41:42.291Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T15:41:45.504Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T15:41:47.485Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T15:42:40.882Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T15:42:44.363Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T15:44:23.006Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T15:44:27.058Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T15:45:16.305Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T15:45:19.801Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T15:46:53.237Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T15:46:56.785Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T15:50:27.352Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T15:50:31.095Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T15:54:40.053Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T15:54:46.883Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T15:55:40.530Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T15:55:44.128Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T15:56:39.542Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T15:56:43.334Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T16:00:11.729Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T16:00:15.397Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T16:02:32.928Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T16:02:36.591Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T16:05:08.221Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T16:05:11.931Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T16:28:01.355Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T16:28:08.181Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T16:28:09.848Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T16:28:10.855Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T16:29:26.661Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T16:29:30.611Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" is not allowed to be empty 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T16:29:32.368Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T16:29:33.034Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T16:31:39.951Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T16:31:43.420Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T16:31:45.272Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T16:54:10.352Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T16:54:14.173Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T16:54:15.995Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T17:02:41.875Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T17:02:45.455Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T17:02:47.148Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T17:46:05.664Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T17:46:09.905Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T17:46:11.761Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T17:47:11.982Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T17:47:16.360Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T17:47:18.912Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T17:50:59.670Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T17:51:03.385Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T17:51:05.367Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T17:52:22.175Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T17:52:25.709Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T17:52:27.489Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T18:03:17.140Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T18:03:20.968Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T18:03:22.719Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T18:16:48.793Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T18:16:53.155Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T18:19:21.121Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T18:19:59.347Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T18:20:02.924Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T18:20:04.873Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T18:20:06.538Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T18:21:29.050Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T18:21:33.173Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T18:21:35.052Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T18:21:36.535Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T18:23:38.208Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T18:23:41.937Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T18:25:03.895Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T18:25:07.384Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T18:25:09.132Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T18:25:10.356Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-06T18:28:20.012Z"}
+info: Connected to the database. {"timestamp":"2022-06-06T18:28:23.576Z"}
+error: 
+    status - 500 
+    message - ValidationError: "emailId" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T18:28:25.513Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword/629e44c7c946051228047f7c 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-06-06T18:28:27.059Z"}
