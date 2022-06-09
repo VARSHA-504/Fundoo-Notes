@@ -57,6 +57,7 @@ export const deleteNote = async (req, res, next) => {
 export const getAllNotes = async (req, res, next) => {
   try {
     const data = await NoteService.getAllNotes(req.body);
+    console.log("Data from the Database");
     res.status(HttpStatus.OK).json({
       code: HttpStatus.OK,
       data: data,

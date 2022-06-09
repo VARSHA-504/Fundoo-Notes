@@ -1,0 +1,127 @@
+info: Server started at http://localhost:6379/api/v1/ {"timestamp":"2022-06-09T03:13:42.638Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T03:13:42.992Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T03:13:47.005Z"}
+info: Server started at http://localhost:6379/api/v1/ {"timestamp":"2022-06-09T03:19:27.939Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T03:19:28.101Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T03:19:31.574Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-09T03:20:31.614Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T03:20:31.778Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T03:20:35.677Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-09T03:23:53.792Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T03:23:53.991Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T03:23:57.198Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-09T03:27:35.404Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T03:27:35.557Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T03:27:38.690Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-09T03:55:53.853Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T03:55:54.022Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T03:55:57.496Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-09T04:01:46.210Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T04:01:46.344Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T04:01:49.648Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-09T04:23:14.455Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T04:23:14.618Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T04:23:17.834Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-09T04:29:23.928Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T04:29:24.054Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T04:29:27.118Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-09T06:47:04.369Z"}
+error: Could not Connect to the Database connect ECONNREFUSED ::1:6379 {"address":"::1","code":"ECONNREFUSED","errno":-4078,"port":6379,"stack":"Error: connect ECONNREFUSED ::1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1195:16)","syscall":"connect","timestamp":"2022-06-09T06:47:04.592Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T06:47:08.145Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-09T06:54:19.986Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T06:54:20.397Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T06:54:28.298Z"}
+info: Server started at http://localhost:6379/api/v1/ {"timestamp":"2022-06-09T07:02:02.476Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T07:02:02.598Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T07:02:06.138Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-06-09T07:04:22.666Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T07:04:22.727Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T07:04:26.212Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-09T07:08:15.967Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-09T07:10:28.625Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-06-09T07:25:57.092Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T07:25:57.221Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T07:26:00.851Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-06-09T07:28:05.222Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T07:28:05.353Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T07:28:09.149Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-06-09T07:41:16.028Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T07:41:16.210Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T07:41:19.980Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-06-09T07:42:01.050Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T07:42:01.157Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T07:42:04.156Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T07:42:09.853Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-06-09T07:45:31.005Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T07:45:31.137Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T07:45:34.446Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-06-09T07:57:44.485Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T07:57:44.574Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T07:57:50.413Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-06-09T08:33:04.033Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T08:33:04.195Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T08:33:08.626Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-06-09T08:36:04.493Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T08:36:04.624Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T08:36:12.944Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-06-09T08:41:33.205Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T08:41:33.352Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T08:41:36.995Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-06-09T08:42:50.363Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T08:42:50.504Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T08:42:53.850Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-06-09T08:47:05.170Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T08:47:05.238Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T08:47:08.152Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-06-09T08:48:09.700Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T08:48:09.785Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T08:48:10.522Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T08:48:13.629Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-06-09T08:48:50.921Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T08:48:51.072Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T08:48:54.490Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/getAll 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2022-06-09T08:49:18.159Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid token
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:75:17)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\index.js:284:15 
+    url - /api/v1/notes/getAll 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-06-09T08:49:43.327Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-06-09T09:57:44.620Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T09:57:44.703Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T09:57:48.150Z"}
