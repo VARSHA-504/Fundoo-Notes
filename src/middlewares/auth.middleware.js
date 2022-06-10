@@ -22,7 +22,7 @@ export const userAuth = async (req, res, next) => {
     bearerToken = bearerToken.split(' ')[1];
 
     const user = await jwt.verify(bearerToken, process.env.SECRET_KEY);
-    req.body.UserID = User.emailId;
+    req.body.UserID = User.email;
     console.log('User :', user);
     next();
   } catch (error) {
@@ -32,7 +32,7 @@ export const userAuth = async (req, res, next) => {
 
 export const resetAuth = async (req, res, next) => {
   try {
-    let bearerToken = req.header('AuthToken');
+    let bearerToken = req.header('Authorization');
     if (!bearerToken)
       throw {
         code: HttpStatus.BAD_REQUEST,

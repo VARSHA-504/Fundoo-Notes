@@ -125,3 +125,417 @@ error:
 info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-06-09T09:57:44.620Z"}
 info: Connected to the Redis Database {"timestamp":"2022-06-09T09:57:44.703Z"}
 info: Connected to the database. {"timestamp":"2022-06-09T09:57:48.150Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-09T15:18:29.081Z"}
+error: Could not Connect to the Database connect ECONNREFUSED ::1:6379 {"address":"::1","code":"ECONNREFUSED","errno":-4078,"port":6379,"stack":"Error: connect ECONNREFUSED ::1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1195:16)","syscall":"connect","timestamp":"2022-06-09T15:18:29.224Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T15:18:32.918Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-09T15:20:12.083Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T15:20:12.201Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T15:20:16.138Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token } in JSON at position 130
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\91809\Desktop\FundooNotes\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:202:9)
+    at invokeCallback (C:\Users\91809\Desktop\FundooNotes\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\91809\Desktop\FundooNotes\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\91809\Desktop\FundooNotes\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:527:28)
+    at IncomingMessage.emit (node:domain:475:12)
+    at endReadableNT (node:internal/streams/readable:1344:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-09T15:25:30.894Z"}
+error: 
+    status - 500 
+    message - Error: User doesnt exist
+    at _callee3$ (C:\Users\91809\Desktop\FundooNotes\src\services\/user.service.js:47:11)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/forgotPassword 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-09T15:27:05.143Z"}
+error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials l11-20020a62be0b000000b0051c394eea03sm6372667pff.212 - gsmtp {"code":"EAUTH","command":"AUTH PLAIN","response":"535-5.7.8 Username and Password not accepted. Learn more at\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials l11-20020a62be0b000000b0051c394eea03sm6372667pff.212 - gsmtp","responseCode":535,"timestamp":"2022-06-09T15:27:33.481Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/users/resetPassword 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-09T15:30:28.098Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/users/resetPassword 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-09T15:30:57.546Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/users/resetPassword 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-09T15:31:26.948Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-09T15:34:14.466Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T15:34:14.562Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T15:34:18.008Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/users/resetPassword 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-09T15:34:35.518Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/users/resetPassword 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-09T15:34:40.008Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/users/resetPassword 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-09T15:40:43.652Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-09T15:42:56.527Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T15:42:56.906Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T15:43:00.718Z"}
+error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials j189-20020a6380c6000000b003fc32f8e030sm17305365pgd.79 - gsmtp {"code":"EAUTH","command":"AUTH PLAIN","response":"535-5.7.8 Username and Password not accepted. Learn more at\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials j189-20020a6380c6000000b003fc32f8e030sm17305365pgd.79 - gsmtp","responseCode":535,"timestamp":"2022-06-09T15:44:47.513Z"}
+error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials u1-20020a056a00098100b0051bc4ed56bcsm9798783pfg.204 - gsmtp {"code":"EAUTH","command":"AUTH PLAIN","response":"535-5.7.8 Username and Password not accepted. Learn more at\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials u1-20020a056a00098100b0051bc4ed56bcsm9798783pfg.204 - gsmtp","responseCode":535,"timestamp":"2022-06-09T15:53:17.668Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at newNoteValidator (C:\Users\91809\Desktop\FundooNotes\src\validators\/user.validator.js:34:5) 
+    url - /api/v1/notes/new 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-09T16:01:58.461Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/new 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-09T16:04:31.248Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at newNoteValidator (C:\Users\91809\Desktop\FundooNotes\src\validators\/user.validator.js:34:5) 
+    url - /api/v1/notes/new 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-09T16:04:40.784Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at newNoteValidator (C:\Users\91809\Desktop\FundooNotes\src\validators\/user.validator.js:34:5) 
+    url - /api/v1/notes/new 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-09T16:05:04.902Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-09T16:07:00.300Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T16:07:00.452Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T16:07:03.951Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at newNoteValidator (C:\Users\91809\Desktop\FundooNotes\src\validators\/user.validator.js:34:5) 
+    url - /api/v1/notes/new 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-09T16:07:09.659Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-09T16:08:01.205Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T16:08:01.371Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T16:08:04.562Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at newNoteValidator (C:\Users\91809\Desktop\FundooNotes\src\validators\/user.validator.js:34:5) 
+    url - /api/v1/notes/new 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-09T16:08:15.057Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at newNoteValidator (C:\Users\91809\Desktop\FundooNotes\src\validators\/user.validator.js:34:5) 
+    url - /api/v1/notes/new 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-09T16:09:14.261Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at newNoteValidator (C:\Users\91809\Desktop\FundooNotes\src\validators\/user.validator.js:34:5) 
+    url - /api/v1/notes/new 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-09T16:09:42.318Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at newNoteValidator (C:\Users\91809\Desktop\FundooNotes\src\validators\/user.validator.js:34:5) 
+    url - /api/v1/notes/new 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-09T16:10:29.982Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-09T16:11:16.604Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T16:11:16.744Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T16:11:20.149Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at newNoteValidator (C:\Users\91809\Desktop\FundooNotes\src\validators\/user.validator.js:34:5) 
+    url - /api/v1/notes/new 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-09T16:11:25.699Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (C:\Users\91809\Desktop\FundooNotes\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\91809\Desktop\FundooNotes\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (C:\Users\91809\Desktop\FundooNotes\src\middlewares\/auth.middleware.js:14:22)
+    at Layer.handle [as handle_request] (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\91809\Desktop\FundooNotes\node_modules\express\lib\router\route.js:144:13)
+    at newNoteValidator (C:\Users\91809\Desktop\FundooNotes\src\validators\/user.validator.js:34:5) 
+    url - /api/v1/notes/new 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-09T16:11:41.971Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-09T16:38:02.470Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T16:38:02.598Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T16:38:12.536Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-09T16:43:38.634Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T16:43:38.730Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T16:43:41.955Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-09T16:53:42.571Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T16:53:42.770Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T16:53:46.314Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-09T16:54:51.219Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T16:54:51.369Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T16:54:54.516Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/notes/getbyId/62a220e27f95bf0e7c48a343 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2022-06-09T16:58:34.966Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-09T17:02:07.022Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T17:02:07.157Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T17:02:12.163Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T17:02:13.366Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T17:02:16.485Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-09T17:03:04.130Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T17:03:04.299Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T17:03:07.368Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-09T17:04:34.968Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T17:04:35.114Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T17:04:38.503Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-09T17:09:57.135Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T17:09:57.175Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T17:10:00.651Z"}
+error: 
+    status - 500 
+    message - undefined 
+    url - /api/v1/notes/delete/62a2204d7f95bf0e7c48a33e 
+    method - DELETE 
+    IP - ::1
+   {"timestamp":"2022-06-09T17:17:38.095Z"}
+error: 
+    status - 500 
+    message - undefined 
+    url - /api/v1/notes/delete/62a2204d7f95bf0e7c48a33e 
+    method - DELETE 
+    IP - ::1
+   {"timestamp":"2022-06-09T17:18:02.744Z"}
+error: 
+    status - 500 
+    message - undefined 
+    url - /api/v1/notes/delete/62a2204d7f95bf0e7c48a33e 
+    method - DELETE 
+    IP - ::1
+   {"timestamp":"2022-06-09T17:18:06.432Z"}
+error: 
+    status - 500 
+    message - undefined 
+    url - /api/v1/notes/delete/62a2204d7f95bf0e7c48a33e 
+    method - DELETE 
+    IP - ::1
+   {"timestamp":"2022-06-09T17:18:15.239Z"}
+error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials x28-20020aa78f1c000000b0050dc7628196sm9780200pfr.112 - gsmtp {"code":"EAUTH","command":"AUTH PLAIN","response":"535-5.7.8 Username and Password not accepted. Learn more at\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials x28-20020aa78f1c000000b0050dc7628196sm9780200pfr.112 - gsmtp","responseCode":535,"timestamp":"2022-06-09T17:33:36.838Z"}
+error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials l13-20020a63700d000000b003fe2062e49esm5244005pgc.73 - gsmtp {"code":"EAUTH","command":"AUTH PLAIN","response":"535-5.7.8 Username and Password not accepted. Learn more at\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials l13-20020a63700d000000b003fe2062e49esm5244005pgc.73 - gsmtp","responseCode":535,"timestamp":"2022-06-09T17:38:37.581Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-09T17:40:46.345Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T17:40:46.437Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T17:40:50.002Z"}
+error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials r187-20020a632bc4000000b003c644b2180asm17813135pgr.77 - gsmtp {"code":"EAUTH","command":"AUTH PLAIN","response":"535-5.7.8 Username and Password not accepted. Learn more at\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials r187-20020a632bc4000000b003c644b2180asm17813135pgr.77 - gsmtp","responseCode":535,"timestamp":"2022-06-09T17:41:23.778Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-09T17:46:04.774Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T17:46:04.894Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T17:46:08.353Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-06-09T17:47:02.952Z"}
+info: Connected to the Redis Database {"timestamp":"2022-06-09T17:47:03.103Z"}
+info: Connected to the database. {"timestamp":"2022-06-09T17:47:06.220Z"}

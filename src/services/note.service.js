@@ -6,10 +6,11 @@ import { newUserValidator } from '../validators/user.validator';
 
 export const createNote = async (body) => {
       const data = await Note.create(body);
-      if(data){
-        await client.del('allNotes');
+      console.log("notes created");
+      // if(data == !null){
+      //   await client.del('allNotes');
       return data;
-      }
+      // }
   };
 
 export const updateNote = async (id, body) => {
@@ -36,12 +37,12 @@ export const deleteUser = async (id, UserID) => {
     return '';
   };
 
-  export const getAllNotes = async ( UserID) => {
+  export const getAllNotes = async (UserID) => {
     const data = await Note.find(UserID);
-    if(data){
-    await client.set('allNotes', JSON.stringify(data))
+    // if(data){
+    // await client.set('allNotes', JSON.stringify(data))
     return data;
-    }
+    // }
   };
 
   export const archiveNote = async (id, UserID) => {

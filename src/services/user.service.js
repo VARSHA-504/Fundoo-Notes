@@ -2,6 +2,7 @@ import User from '../models/user.model';
 import  bcrypt from 'bcrypt';
 import jwt from 'jsonwebtoken';
 import * as helper from '../utils/helper';
+import { producer } from '../utils/RabbitMQ';
 
 //get all users
 // export const getAllUsers = async () => {
@@ -15,6 +16,7 @@ export const userRegistration = async (userData) => {
   if(resData == null) {
     userData.password = await bcrypt.hash(userData.password, 10);
     const data = await User.create(userData);
+    producer(data);
     return data;
   }
   else {
@@ -58,7 +60,7 @@ export const forgotPassword = async (userData) => {
 // Reset Password
 export const resetPassword = async (body) => {
   let hashpassword = await bcrypt.hash(body.password, 10);
-  const data = await User.findOneAndUpdate({ email: body.emailId },{ password: hashpassword }
+  const data = await User.findOneAndUpdate({ email: body.email },{ password: hashpassword }
   );
   console.log("data is " ,data);
   return data;
